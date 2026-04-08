@@ -1,0 +1,61 @@
+﻿#EXTM3U url-tvg="http://epg.one/epg.xml.gz,http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG_LITE,http://epg.it999.ru/epg.xml.gz,http://epg.it999.ru/edem.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,http://st.kineskop.tv/epg.xml.gz,http://iptv-content.webhop.net/guide.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://epg.pw/xmltv/epg.xml.gz,https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,https://str-01.sunset-media.org/epg.xml,http://gabbarit.drm-play.com/epg_1.xml.gz,http://iptvx.one/epg/epg.xml.gz,http://ry7wpjhjwylg7u7.vxdgroup-84jzo19.xyz/htv.xml,http://epg.one/epg.xml,http://gabbarit.drm-play.com/epg_lite.xml.gz,http://epg.cdntv.online/full.xml.gz,http://epg.cdntv.online/lite.xml,http://epg.cdntv.online/lite.xml.gz,http://epg.it999.ru/epg.xml.gz,http://iptv-content.rv77.pw/guide-lite.xml,http://iptvx.one/epg/epg.xml.gz,http://epg.one/epg.xml,http://gabbarit.drm-play.com/epg_lite.xml.gz,http://epg.cdntv.online/lite.xml,http://epg.it999.ru/epg.xml.gz,http://iptv-content.rv77.pw/guide-lite.xml,http://gabbarit.drm-play.com/epg_1.xml.gz,http://epg.one/epg.xml.gz,http://iptv-content.webhop.net/guide.xml,http://www.teleguide.info/download/new3/xmltv.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,http://st.kineskop.tv/epg.xml.gz,https://iptvx.one/epg/epg_lite.xml.gz,https://iptvx.one/epg/epg.xml.gz,http://site.com/epg.xml.gz,http://iptvx.one/epg/epg_lite.xml.gz,http://programtv.ru/xmltv.xml.gz,http://epg.it999.ru/edem.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://stb.shara-tv.org/epg/epgtv.xml.gz,http://st.kineskop.tv/epg.xml.gz,https://webarmen.com/my/iptv/xmltv.xml.gz,https://static.mediatech.by/epg.xml,http://epg.it999.ru/epg2.xml.gz,http://epg.it999.ru/epg.xml.gz,http://epg.it999.ru/pp.xml.gz,http://epg.it999.ru/epg2.xml,http://epg.it999.ru/epg.xml,http://epg.it999.ru/ru2.xml.gz,http://epg.it999.ru/ru.xml.gz,http://epg.it999.ru/rupp.xml.gz,https://ottepg.ru/ottepg.xml.gz,http://st.kineskop.tv/epg.xml.gz,http://iptv-content.webhop.net/guide.xml,http://stb.shara-tv.org/epg/epgtv.xml.gz,http://topiptv.info/download/topiptv.xml.gz,http://epg.it999.ru/edem.xml.gz,https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz,https://iptv-epg.org/files/epg-ru.xml.gz,https://iptv-epg.org/files/epg-il.xml.gz,https://iptv-epg.org/files/epg-us.xml.gz,http://epg.one/epg2.xml.gz,http://epg.one/epg.xml.gz,http://epg.one/pp.xml.gz,http://epg.one/epg2.xml,http://epg.one/epg.xml,http://epg.one/ru2.xml.gz,http://epg.one/ru.xml.gz,https://github.com/iFrez/EPG-EdemTV/raw/master/edem.xml.gz,https://iptvx.one/EPG,https://iptvx.one/EPG7,https://iptvx.one/EPG_NOARCH"
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/983.png"group-title="EPG установка и проверка",Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=LAwHjfz5On3BQrS74jMdNQ&e=2068851223&scheme=https
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2672.png"group-title="EPG установка и проверка",9 Канал
+http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/2331/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://gigavider.ru/upload/iblock/a18/x9s7whiehqhp9na1gpafrjsyhboex5tm.png"group-title="EPG установка и проверка",ТБВ
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=No28vGsCdN_muaj1BNLKGw&e=2069714069&scheme=https
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.one/img/2571.png"group-title="EPG установка и проверка",Первый канал Евразия
+http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/2212/index.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0SoWo5cs08RN4_S58QmIcKOxbwMuZ4i12Q&s"group-title="EPG установка и проверка",ЛенТВ 24
+http://cdntv.online/hls/7hbsx8fpdtn2/2294.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/214.png"group-title="EPG установка и проверка",78 канал (Санкт-Петербург)
+http://cdntv.online/hls/7hbsx8fpdtn2/214.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/4605.png"group-title="EPG установка и проверка",Хоккей ТВ
+http://cdntv.online/hls/7hbsx8fpdtn2/1497.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/45.png"group-title="EPG установка и проверка",KHL
+http://cdntv.online/hls/7hbsx8fpdtn2/45.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/1038.png"group-title="EPG установка и проверка",KHL Prime
+http://cdntv.online/hls/7hbsx8fpdtn2/46.m3u8
+
+#EXTINF:-1 tvg-id="NHL HD"tvg-logo="http://livetv24.org/images/4562.png"group-title="EPG установка и проверка",NHL
+http://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-avtoradio.png"group-title="EPG установка и проверка",Авторадио
+http://ic7.101.ru:8000/v3_1
+
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/ZBHqSZj.png"group-title="EPG установка и проверка",Вести FM
+http://icecast.vgtrk.cdnvideo.ru/vestifm
+
+#EXTINF:-1 tvg-id="730"tvg-logo="http://epg.cdntv.online/img/730.png"group-title="EPG установка и проверка",Anal
+https://cdn.pixabay.com/video/2021/12/14/100594-658819761_large.mp4
+
+#EXTINF:-1 tvg-id="1127"tvg-logo="http://epg.cdntv.online/img/1127.png"group-title="EPG установка и проверка",FAP TV 2 HD
+https://cdn.pixabay.com/video/2021/12/14/100594-658819761_large.mp4
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/317.png"group-title="EPG установка и проверка",Viju Explore
+http://cdntv.online/hls/7hbsx8fpdtn2/317.m3u8
+
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/318.png"group-title="EPG установка и проверка",Viju History
+http://cdntv.online/hls/7hbsx8fpdtn2/318.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
