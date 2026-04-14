@@ -1032,14 +1032,14 @@ http://cdntv.online/low/na2wp5sud6/1511.m3u8
 http://cdntv.online/low/na2wp5sud6/1579.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo="http://livetv24.org/images/2345.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC
-http://cdntv.online/low/na2wp5sud6/169.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo="http://livetv24.org/images/425.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC HD
+#EXTINF:-1 tvg-id="170"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/t.l.c.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC HD
 http://cdntv.online/low/na2wp5sud6/170.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/T.L.C_hd%2B.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Pan Regional
-http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/232/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/3667.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
+#EXTINF:-1 tvg-id="1033"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/h.g.t.v.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
 http://cdntv.online/low/na2wp5sud6/1033.m3u8
+#EXTINF:-1 tvg-id="tlc"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/t.l.c.hd.ross.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия HD
+http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/232/index.m3u8
+#EXTINF:-1 tvg-id="hgtv"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/h.g.t.v.hd.ross.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",HGTV Россия HD
+http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/1084/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1332.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Gagsnetwork
@@ -1068,43 +1068,45 @@ http://cdntv.online/low/na2wp5sud6/2219.m3u8
 http://cdntv.online/low/na2wp5sud6/2226.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/847.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Камин HD
 http://cdntv.online/low/na2wp5sud6/847.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Discovery
+#EXTINF:-1 tvg-id="169"tvg-logo="http://livetv24.org/images/2345.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC
+http://cdntv.online/low/na2wp5sud6/169.m3u8
+#EXTINF:-1 tvg-id="299"tvg-logo="http://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Discovery
 http://cdntv.online/low/na2wp5sud6/299.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/306.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",ID Investigation Discovery
+#EXTINF:-1 tvg-id="306"tvg-logo="http://epg.cdntv.online/img/306.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ID Investigation Discovery
 http://cdntv.online/low/na2wp5sud6/306.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Animal Planet
+#EXTINF:-1 tvg-id="295"tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Animal Planet
 http://cdntv.online/low/na2wp5sud6/295.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Nat Geo Wild
+#EXTINF:-1 tvg-id="307"tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nat Geo Wild
 http://cdntv.online/low/na2wp5sud6/307.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",National Geographic
+#EXTINF:-1 tvg-id="309"tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",National Geographic
 http://cdntv.online/low/na2wp5sud6/309.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/371.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Travel Channel HD
+#EXTINF:-1 tvg-id="371"tvg-logo="http://epg.cdntv.online/img/371.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel Channel HD
 http://cdntv.online/low/na2wp5sud6/371.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/315.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Travel+Adventure
+#EXTINF:-1 tvg-id="315"tvg-logo="http://epg.cdntv.online/img/315.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel+Adventure
 http://cdntv.online/low/na2wp5sud6/315.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/444.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Love Nature HD (4K)
+#EXTINF:-1 tvg-id="444"tvg-logo="http://epg.cdntv.online/img/444.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Love Nature HD (4K)
 http://cdntv.online/low/na2wp5sud6/444.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/347.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Приключения HD
+#EXTINF:-1 tvg-id="347"tvg-logo="http://epg.cdntv.online/img/347.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Приключения HD
 http://cdntv.online/low/na2wp5sud6/347.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/353.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Телепутешествия
+#EXTINF:-1 tvg-id="353"tvg-logo="http://epg.cdntv.online/img/353.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Телепутешествия
 http://cdntv.online/low/na2wp5sud6/353.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/324.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",В мире животных HD
+#EXTINF:-1 tvg-id="324"tvg-logo="http://epg.cdntv.online/img/324.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",В мире животных HD
 http://cdntv.online/low/na2wp5sud6/324.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1062.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Первый космический HD
+#EXTINF:-1 tvg-id="1062"tvg-logo="http://epg.cdntv.online/img/1062.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Первый космический HD
 http://cdntv.online/low/na2wp5sud6/1062.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/317.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Viju Explore
+#EXTINF:-1 tvg-id="317"tvg-logo="http://epg.cdntv.online/img/317.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju Explore
 http://cdntv.online/low/na2wp5sud6/317.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/318.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Viju History
+#EXTINF:-1 tvg-id="318"tvg-logo="http://epg.cdntv.online/img/318.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju History
 http://cdntv.online/low/na2wp5sud6/318.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/319.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Viju Nature
+#EXTINF:-1 tvg-id="319"tvg-logo="http://epg.cdntv.online/img/319.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju Nature
 http://cdntv.online/low/na2wp5sud6/319.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/375.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Viju+ Planet
+#EXTINF:-1 tvg-id="375"tvg-logo="http://epg.cdntv.online/img/375.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju+ Planet
 http://cdntv.online/low/na2wp5sud6/375.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
@@ -1116,16 +1118,6 @@ http://cdntv.online/low/na2wp5sud6/2046.m3u8
 http://cdntv.online/low/na2wp5sud6/2017.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2065.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",LIBERTY Документалки
 http://cdntv.online/low/na2wp5sud6/2065.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
-http://4.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1397.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Travel HD
-http://cdntv.online/low/na2wp5sud6/1397.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/z-science.gif"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Science HD
-http://cdntv.online/low/na2wp5sud6/1416.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1390.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!History HD
-http://cdntv.online/low/na2wp5sud6/1390.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1381.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Adventure HD
-http://cdntv.online/low/na2wp5sud6/1381.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/M87kbVk.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Clarity4k UFO
@@ -1146,6 +1138,16 @@ http://cdntv.online/low/na2wp5sud6/1681.m3u8
 http://cdntv.online/low/na2wp5sud6/1271.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2298.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",CineMan расследование авиакатастроф
 http://cdntv.online/low/na2wp5sud6/2298.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://4.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1397.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Travel HD
+http://cdntv.online/low/na2wp5sud6/1397.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/z-science.gif"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Science HD
+http://cdntv.online/low/na2wp5sud6/1416.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1390.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!History HD
+http://cdntv.online/low/na2wp5sud6/1390.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1381.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Adventure HD
+http://cdntv.online/low/na2wp5sud6/1381.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/675.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Моя Планета
@@ -12528,13 +12530,13 @@ http://cdntv.online/low/na2wp5sud6/998.m3u8
 http://cdntv.online/low/na2wp5sud6/1000.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
-#EXTINF:-1 tvg-id="🇺🇸 USA"tvg-logo="http://livetv24.org/images/2327.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ABC Los Angeles
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/a.b.c.la.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ABC News
 https://tvpass.org/live/abc-kabc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="🇺🇸 USA"tvg-logo="http://livetv24.org/images/2254.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS Los Angeles
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/C.B.S.la.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS News
 https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="🇺🇸 USA"tvg-logo="http://livetv24.org/images/2128.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Los Angeles
+#EXTINF:-1 tvg-id="nbc-knbc-los-angeles-ca"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/N.B.C.la.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC News
 https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
-#EXTINF:-1 tvg-id="🇺🇸 USA"tvg-logo="http://livetv24.org/images/3661.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FOX Los Angeles
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/F.O.X.la.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FOX News
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
