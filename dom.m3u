@@ -115,8 +115,8 @@ http://cdntv.online/low/na2wp5sud6/323.m3u8
 http://cdntv.online/low/na2wp5sud6/282.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/962.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",РЖД ТВ HD
 http://cdntv.online/low/na2wp5sud6/962.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/7710.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Дагестан
-http://cdntv.online/low/na2wp5sud6/525.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/582.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Москва. Доверие
+http://cdntv.online/low/na2wp5sud6/582.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/6675.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Первый Тульский
@@ -179,15 +179,17 @@ http://cdntv.online/low/na2wp5sud6/200.m3u8
 http://cdntv.online/low/na2wp5sud6/206.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/7258.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",НТВ Мир
+http://cdntv.online/low/na2wp5sud6/1018.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/171.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",ЛДПР ТВ
 http://cdntv.online/low/na2wp5sud6/171.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/350.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Ратник HD
 http://cdntv.online/low/na2wp5sud6/350.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/582.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Москва. Доверие
-http://cdntv.online/low/na2wp5sud6/582.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Московский образовательный
 http://cdntv.online/low/na2wp5sud6/224.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1249.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",ЧГТРК Грозный
+#EXTINF:-1 tvg-id="525"tvg-logo="https://cdn.epg.one/img/7710.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Дагестан
+http://cdntv.online/low/na2wp5sud6/525.m3u8
+#EXTINF:-1 tvg-id="1249"tvg-logo="http://epg.cdntv.online/img/1249.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",ЧГТРК Грозный
 http://cdntv.online/low/na2wp5sud6/1249.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/187.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",12 канал (Омск)
 http://cdntv.online/low/na2wp5sud6/187.m3u8
@@ -287,8 +289,6 @@ http://cdntv.online/low/na2wp5sud6/1494.m3u8
 http://cdntv.online/low/na2wp5sud6/714.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/596.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",НТВ (Мурманск)
 http://cdntv.online/low/na2wp5sud6/596.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/7258.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",НТВ Мир
-http://cdntv.online/low/na2wp5sud6/1018.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/961.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",НТМ (Мордовия)
 http://cdntv.online/low/na2wp5sud6/961.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/229.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",НТС
@@ -533,8 +533,6 @@ http://cdntv.online/low/na2wp5sud6/99.m3u8
 http://cdntv.online/low/na2wp5sud6/475.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/100.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",ТВ 21
 http://cdntv.online/low/na2wp5sud6/100.m3u8
-#EXTINF:-1 tvg-id="Телекафе"tvg-logo="http://epg.one/img/2304.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Телекафе
-http://188.225.31.197/bpk-tv/000000206/tve/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/846.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Аквариум HD
 http://cdntv.online/low/na2wp5sud6/846.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1100.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Камеди HD
@@ -759,8 +757,6 @@ http://cdntv.online/low/na2wp5sud6/2022.m3u8
 http://cdntv.online/low/na2wp5sud6/2068.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2009.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",LIBERTY Мелодрамы
 http://cdntv.online/low/na2wp5sud6/2009.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2033.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",LIBERTY МиМ
-http://cdntv.online/low/na2wp5sud6/2033.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2013.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",LIBERTY Сваты
 http://cdntv.online/low/na2wp5sud6/2013.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2031.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",LIBERTY Семейный
@@ -775,16 +771,12 @@ http://cdntv.online/low/na2wp5sud6/2040.m3u8
 http://cdntv.online/low/na2wp5sud6/2041.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1553.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",MS Crime HD
 http://cdntv.online/low/na2wp5sud6/1553.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1557.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",MS Magic HD
-http://cdntv.online/low/na2wp5sud6/1557.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1554.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",MS Prisons HD
 http://cdntv.online/low/na2wp5sud6/1554.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1556.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",MS Young Blood HD
 http://cdntv.online/low/na2wp5sud6/1556.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Play-x (90-е) HD
 http://cdntv.online/low/na2wp5sud6/2227.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Play-x 6 кадров HD
-http://cdntv.online/low/na2wp5sud6/2220.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Play-x Beast Games HD
 http://cdntv.online/low/na2wp5sud6/2223.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Play-x Военная приемка HD
@@ -925,8 +917,6 @@ http://cdntv.online/low/na2wp5sud6/2268.m3u8
 http://cdntv.online/low/na2wp5sud6/1098.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/434.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Ultra HD Cinema
 http://cdntv.online/low/na2wp5sud6/434.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/387.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Ultra HD cinema (4K)
-http://cdntv.online/low/na2wp5sud6/387.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1347.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Comedy
 http://cdntv.online/low/na2wp5sud6/1347.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1349.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Fantastic
@@ -1033,6 +1023,8 @@ http://cdntv.online/low/na2wp5sud6/428.m3u8
 http://cdntv.online/low/na2wp5sud6/520.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x Игра ТНТ HD
 http://cdntv.online/low/na2wp5sud6/2260.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x 6 кадров HD
+http://cdntv.online/low/na2wp5sud6/2220.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x География уральских пельменей HD
 http://cdntv.online/low/na2wp5sud6/2217.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://play-x.ru/logo.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x Женский стендап HD
@@ -1347,8 +1339,8 @@ http://cdntv.online/low/na2wp5sud6/1577.m3u8
 http://cdntv.online/low/na2wp5sud6/1645.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1991.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Fresh Kids
 http://cdntv.online/low/na2wp5sud6/1991.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1395.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Z!Smile HD
-http://cdntv.online/low/na2wp5sud6/1395.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2033.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY МиМ
+http://cdntv.online/low/na2wp5sud6/2033.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2020.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY ANIME
 http://cdntv.online/low/na2wp5sud6/2020.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2018.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY BEBIMULT
@@ -1369,6 +1361,8 @@ http://cdntv.online/low/na2wp5sud6/2027.m3u8
 http://cdntv.online/low/na2wp5sud6/2007.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2032.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Сказки
 http://cdntv.online/low/na2wp5sud6/2032.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1557.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MS Magic HD
+http://cdntv.online/low/na2wp5sud6/1557.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1555.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MS Toons HD
 http://cdntv.online/low/na2wp5sud6/1555.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1348.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",VL Cartoons
@@ -1385,6 +1379,8 @@ http://cdntv.online/low/na2wp5sud6/1532.m3u8
 http://cdntv.online/low/na2wp5sud6/1535.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Toon S FHD
 http://cdntv.online/low/na2wp5sud6/1533.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1395.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Z!Smile HD
+http://cdntv.online/low/na2wp5sud6/1395.m3u8
 #EXTINF:-1 tvg-id="1497"tvg-logo="http://livetv24.org/images/4605.png"group-title="₀₈ 🏀 Спорт"catchup="shift"catchup-days="3",Хоккей ТВ
 http://cdntv.online/low/na2wp5sud6/1497.m3u8
 #EXTINF:-1 tvg-id="45"tvg-logo="http://livetv24.org/images/2048.png"group-title="₀₈ 🏀 Спорт"catchup="shift"catchup-days="3",KHL
@@ -14141,6 +14137,8 @@ http://cdntv.online/low/na2wp5sud6/410.m3u8
 http://cdntv.online/low/na2wp5sud6/411.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/43.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Viju+ Sport HD
 http://cdntv.online/low/na2wp5sud6/43.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/387.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Ultra HD cinema (4K)
+http://cdntv.online/low/na2wp5sud6/387.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/420.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Диалоги о рыбалке HD
 http://cdntv.online/low/na2wp5sud6/420.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/422.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Дикая рыбалка HD
