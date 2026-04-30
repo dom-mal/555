@@ -14035,7 +14035,7 @@ http://cdntv.online/low/na2wp5sud6/2088.m3u8
 http://cdntv.online/low/na2wp5sud6/2087.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/e.s.t.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Duo 4 HD
 http://cdntv.online/low/na2wp5sud6/2086.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",#EXTINF:-1 tvg-id="pervy
+#EXTINF:-1 tvg-id="pervy"tvg-logo="http://epg.cdntv.online/img/29.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",Первый канал HD
 http://cdntv.online/low/na2wp5sud6/29.m3u8
 #EXTINF:-1 tvg-id="rossia1"tvg-logo="http://livetv24.org/images/984.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",Россия 1 HD
 http://cdntv.online/low/na2wp5sud6/33.m3u8
