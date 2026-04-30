@@ -1035,23 +1035,23 @@ http://cdntv.online/low/na2wp5sud6/2226.m3u8
 http://cdntv.online/low/na2wp5sud6/847.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/846.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Аквариум HD
 http://cdntv.online/low/na2wp5sud6/846.m3u8
-#EXTINF:-1 tvg-id="299"tvg-logo="http://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Discovery
+#EXTINF:-1 tvg-id="discovery-channel"tvg-logo="http://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Discovery
 http://cdntv.online/low/na2wp5sud6/299.m3u8
 #EXTINF:-1 tvg-id="306"tvg-logo="http://epg.cdntv.online/img/306.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ID Investigation Discovery
 http://cdntv.online/low/na2wp5sud6/306.m3u8
-#EXTINF:-1 tvg-id="295"tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Animal Planet
+#EXTINF:-1 tvg-id="animal-planet"tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Animal Planet
 http://cdntv.online/low/na2wp5sud6/295.m3u8
-#EXTINF:-1 tvg-id="307"tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nat Geo Wild
+#EXTINF:-1 tvg-id="nat-geo-wild"tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nat Geo Wild
 http://cdntv.online/low/na2wp5sud6/307.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
-#EXTINF:-1 tvg-id="309"tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",National Geographic
+#EXTINF:-1 tvg-id="national-geographic"tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",National Geographic
 http://cdntv.online/low/na2wp5sud6/309.m3u8
 #EXTINF:-1 tvg-id="travel-channel"tvg-logo="http://epg.cdntv.online/img/371.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel Channel HD
 http://cdntv.online/low/na2wp5sud6/371.m3u8
 #EXTINF:-1 tvg-id="travel-adventure"tvg-logo="http://epg.cdntv.online/img/315.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel+Adventure
 http://cdntv.online/low/na2wp5sud6/315.m3u8
-#EXTINF:-1 tvg-id="444"tvg-logo="http://epg.cdntv.online/img/444.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Love Nature HD (4K)
+#EXTINF:-1 tvg-id="love-nature-4k"tvg-logo="http://epg.cdntv.online/img/444.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Love Nature HD (4K)
 http://cdntv.online/low/na2wp5sud6/444.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://4.m3u8
@@ -14041,7 +14041,7 @@ http://cdntv.online/low/na2wp5sud6/29.m3u8
 http://cdntv.online/low/na2wp5sud6/33.m3u8
 #EXTINF:-1 tvg-id="rentv"tvg-logo="http://epg.cdntv.online/img/388.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",Рен ТВ HD
 http://cdntv.online/low/na2wp5sud6/388.m3u8
-#EXTINF:-1 tvg-id="4"tvg-logo="http://livetv24.org/images/2001.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",НТВ HD
+#EXTINF:-1 tvg-id="ntv"tvg-logo="http://livetv24.org/images/2001.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",НТВ HD
 http://cdntv.online/low/na2wp5sud6/360.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://9.m3u8
@@ -14075,7 +14075,7 @@ http://cdntv.online/low/na2wp5sud6/288.m3u8
 http://cdntv.online/low/na2wp5sud6/361.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://9.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.hd.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",TLC HD
+#EXTINF:-1 tvg-id="169"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.hd.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",TLC HD
 http://cdntv.online/low/na2wp5sud6/170.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/20.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Муз ТВ HD
 http://cdntv.online/low/na2wp5sud6/2280.m3u8
