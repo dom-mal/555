@@ -365,8 +365,8 @@ http://cdntv.online/hls/7hbsx8fpdtn2/695.m3u8
 http://cdntv.online/hls/7hbsx8fpdtn2/527.m3u8
 #EXTINF:-1 tvg-id="136"tvg-logo="http://livetv24.org/images/401.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Роман
 http://cdntv.online/hls/7hbsx8fpdtn2/136.m3u8
-#EXTINF:-1 tvg-id="137"tvg-logo="http://livetv24.org/images/1570.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Детектив
-http://cdntv.online/hls/7hbsx8fpdtn2/137.m3u8
+#EXTINF:-1 tvg-id="russky-roman"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/r.u.s.r.o.m.a.n.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="138"tvg-logo="http://livetv24.org/images/53.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Иллюзион
 http://cdntv.online/hls/7hbsx8fpdtn2/138.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/994.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Бестселлер
@@ -379,8 +379,8 @@ http://cdntv.online/hls/7hbsx8fpdtn2/2070.m3u8
 http://cdntv.online/hls/7hbsx8fpdtn2/346.m3u8
 #EXTINF:-1 tvg-id="907"tvg-logo="http://livetv24.org/images/2773.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",День победы HD
 http://cdntv.online/hls/7hbsx8fpdtn2/907.m3u8
-#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Мужское Кино
-http://cdntv.online/hls/7hbsx8fpdtn2/128.m3u8
+#EXTINF:-1 tvg-id="137"tvg-logo="http://livetv24.org/images/1570.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Детектив
+http://cdntv.online/hls/7hbsx8fpdtn2/137.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
 #EXTINF:-1 tvg-id="111"tvg-logo="http://livetv24.org/images/834.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Дом Кино
@@ -523,6 +523,8 @@ http://cdntv.online/hls/7hbsx8fpdtn2/1103.m3u8
 http://cdntv.online/hls/7hbsx8fpdtn2/117.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
+#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Мужское Кино
+http://cdntv.online/hls/7hbsx8fpdtn2/128.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/506.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",.Black
 http://cdntv.online/hls/7hbsx8fpdtn2/506.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/97.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",.Red
