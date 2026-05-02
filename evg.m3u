@@ -1005,7 +1005,7 @@ http://cdntv.online/hls/7hbsx8fpdtn2/1671.m3u8
 http://cdntv.online/hls/7hbsx8fpdtn2/2021.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="http://livetv24.org/images/2345.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC
+#EXTINF:-1 tvg-id="tlc-pan-regional"tvg-logo="http://livetv24.org/images/2345.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC
 http://cdntv.online/hls/7hbsx8fpdtn2/169.m3u8
 #EXTINF:-1 tvg-id="tlc"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.hd.ross.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия HD
 http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/232/index.m3u8
