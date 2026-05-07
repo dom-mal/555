@@ -363,14 +363,14 @@ http://cdntv.online/low/na2wp5sud6/698.m3u8
 http://cdntv.online/low/na2wp5sud6/695.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://sitv.ru/img/tvprogram/2024/s1.jpg"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",C1 HD (Сургут)
 http://cdntv.online/low/na2wp5sud6/527.m3u8
-#EXTINF:-1 tvg-id="136"tvg-logo="http://livetv24.org/images/401.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Роман
+#EXTINF:-1 tvg-id="russky-roman"tvg-logo="http://livetv24.org/images/401.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Роман
 http://cdntv.online/low/na2wp5sud6/136.m3u8
-#EXTINF:-1 tvg-id="russky-roman"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/r.u.s.r.o.m.a.n.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Русский Роман
-http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="138"tvg-logo="http://livetv24.org/images/53.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Иллюзион
 http://cdntv.online/low/na2wp5sud6/138.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/994.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Бестселлер
 http://cdntv.online/low/na2wp5sud6/135.m3u8
+#EXTINF:-1 tvg-id="137"tvg-logo="http://livetv24.org/images/1570.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Детектив
+http://cdntv.online/low/na2wp5sud6/137.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
 #EXTINF:-1 tvg-id="2070"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/p.a.t.r.i.o.t2.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Патриот
@@ -379,8 +379,8 @@ http://cdntv.online/low/na2wp5sud6/2070.m3u8
 http://cdntv.online/low/na2wp5sud6/346.m3u8
 #EXTINF:-1 tvg-id="907"tvg-logo="http://livetv24.org/images/2773.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",День победы HD
 http://cdntv.online/low/na2wp5sud6/907.m3u8
-#EXTINF:-1 tvg-id="137"tvg-logo="http://livetv24.org/images/1570.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Русский Детектив
-http://cdntv.online/low/na2wp5sud6/137.m3u8
+#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Мужское Кино
+http://cdntv.online/low/na2wp5sud6/128.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
 #EXTINF:-1 tvg-id="111"tvg-logo="http://livetv24.org/images/834.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Дом Кино
@@ -523,8 +523,6 @@ http://cdntv.online/low/na2wp5sud6/1103.m3u8
 http://cdntv.online/low/na2wp5sud6/117.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
-#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Мужское Кино
-http://cdntv.online/low/na2wp5sud6/128.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/506.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",.Black
 http://cdntv.online/low/na2wp5sud6/506.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/97.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",.Red
@@ -959,6 +957,8 @@ http://cdntv.online/low/na2wp5sud6/1394.m3u8
 http://cdntv.online/low/na2wp5sud6/1396.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/108.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",ZEE TV
 http://cdntv.online/low/na2wp5sud6/108.m3u8
+#EXTINF:-1 tvg-id="russky-roman"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/r.u.s.r.o.m.a.n.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Русский Роман
+http://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo="http://livetv24.org/images/2141.png"group-title="₀₃ ⛪ Религия"catchup="shift"catchup-days="3",Спас
 http://cdntv.online/low/na2wp5sud6/12.m3u8
 #EXTINF:-1 tvg-id="soyuz"tvg-logo="http://livetv24.org/images/2448.png"group-title="₀₃ ⛪ Религия"catchup="shift"catchup-days="3",Союз
@@ -12527,351 +12527,351 @@ https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
 https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
 #EXTINF:-1 tvg-id="USA"tvg-logo=""group-title=""catchup=""catchup-days="",
 http://USA.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NFL Network
-https://tvpass.org/live/NFLNetwork/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ACC Network
-https://tvpass.org/live/ACCNetwork/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BET Her
-https://tvpass.org/live/BETHerEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Life Channel
-https://tvpass.org/live/DiscoveryLife/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN
-https://tvpass.org/live/ESPN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN2
-https://tvpass.org/live/ESPN2/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Indiana
-https://tvpass.org/live/fanduel-sports-indiana/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Florida
-https://tvpass.org/live/fanduel-sports-network-florida/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Great Lakes
-https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network North
-https://tvpass.org/live/fanduel-sports-network-north/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Oklahoma
-https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network San Diego
-https://tvpass.org/live/fanduel-sports-network-san-diego/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Socal
-https://tvpass.org/live/fanduel-sports-network-socal/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network West
-https://tvpass.org/live/fanduel-sports-network-west/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Wisconsin
-https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Sun
-https://tvpass.org/live/fanduel-sports-sun/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Business
-https://tvpass.org/live/FoxBusiness/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox News
-https://tvpass.org/live/FoxNewsChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Sports 1
-https://tvpass.org/live/FoxSports1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Sports 2
-https://tvpass.org/live/FoxSports2/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Golf Channel USA
-https://tvpass.org/live/GolfChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HLN
-https://tvpass.org/live/HLN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MLB Network
-https://tvpass.org/live/MLBNetwork/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Motor Trend HD
-https://tvpass.org/live/Motortrend/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSG Plus
-https://tvpass.org/live/msg-plus/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",National Geographic Wild
-https://tvpass.org/live/NationalGeographicWildEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports California
-https://tvpass.org/live/nbc-sports-california/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Philadelphia
-https://tvpass.org/live/nbc-sports-philadelphia/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NewsMax TV
-https://tvpass.org/live/NewsmaxTV/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC
-https://tvpass.org/live/WNBCDT1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",WPIX New York (SUPERSTATION)
-https://tvpass.org/live/WPIX/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TV One
-https://tvpass.org/live/TVOne/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",A&E US Eastern Feed
+#EXTINF:-1 tvg-id="ae-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",A&E US Eastern Feed
 https://tvpass.org/live/AEEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Altitude Sports Denver
+#EXTINF:-1 tvg-id="acc-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ACC Network
+https://tvpass.org/live/ACCNetwork/sd
+#EXTINF:-1 tvg-id="altitude-sports-denver"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Altitude Sports Denver
 https://tvpass.org/live/altitude-sports-denver/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",AMC Eastern Feed
+#EXTINF:-1 tvg-id="amc-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",AMC Eastern Feed
 https://tvpass.org/live/AMCEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",American Heroes Channel
+#EXTINF:-1 tvg-id="american-heroes-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",American Heroes Channel
 https://tvpass.org/live/AmericanHeroesChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Animal Planet US East
+#EXTINF:-1 tvg-id="animal-planet-us-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Animal Planet US East
 https://tvpass.org/live/AnimalPlanetEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BBC America East
+#EXTINF:-1 tvg-id="bbc-america-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BBC America East
 https://tvpass.org/live/BBCAmericaEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BBC News North America HD
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BBC News North America HD
 https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BET Eastern Feed
+#EXTINF:-1 tvg-id="bet-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BET Eastern Feed
 https://tvpass.org/live/BETEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Big Ten Network
+#EXTINF:-1 tvg-id="bet-her"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1 tvg-id="big-ten-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Big Ten Network
 https://tvpass.org/live/BTN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Bloomberg TV USA
+#EXTINF:-1 tvg-id="bloomberg-tv-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Bloomberg TV USA
 https://tvpass.org/live/BloombergTV/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Boomerang
+#EXTINF:-1 tvg-id="boomerang"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Boomerang
 https://tvpass.org/live/Boomerang/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Bravo USA Eastern Feed
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Bravo USA Eastern Feed
 https://tvpass.org/live/BravoEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Cartoon Network USA Eastern Feed
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Cartoon Network USA Eastern Feed
 https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS Sports Network USA
+#EXTINF:-1 tvg-id="cbs-sports-network-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS Sports Network USA
 https://tvpass.org/live/CBSSportsNetworkUSA/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Chicago Sports Network
+#EXTINF:-1 tvg-id="chicago-sports-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Chicago Sports Network
 https://tvpass.org/live/chicago-sports-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Cinemax Eastern Feed
+#EXTINF:-1 tvg-id="cinemax-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Cinemax Eastern Feed
 https://tvpass.org/live/CinemaxEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CMT US Eastern Feed
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CMT US Eastern Feed
 https://tvpass.org/live/CMTEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CNBC USA
+#EXTINF:-1 tvg-id="cnbc-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CNBC USA
 https://tvpass.org/live/CNBC/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CNN US
+#EXTINF:-1 tvg-id="cnn"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CNN US
 https://tvpass.org/live/CNN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Comedy Central (US) Eastern Feed
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Comedy Central (US) Eastern Feed
 https://tvpass.org/live/ComedyCentralEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Crime & Investigation Network USA HD
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Crime & Investigation Network USA HD
 https://tvpass.org/live/CrimePlusInvestigation/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",C-SPAN
+#EXTINF:-1 tvg-id="cspan"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",C-SPAN
 https://tvpass.org/live/CSPAN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",C-SPAN 2
+#EXTINF:-1 tvg-id="cspan-2"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",C-SPAN 2
 https://tvpass.org/live/CSPAN2/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CW (KFMB-TV2) San Diego
+#EXTINF:-1 tvg-id="cw-kfmbtv2-san-diego-ca"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CW (KFMB-TV2) San Diego
 https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CW (WDCW) District of Columbia
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CW (WDCW) District of Columbia
 https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Destination America
+#EXTINF:-1 tvg-id="destination-america"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Destination America
 https://tvpass.org/live/DestinationAmerica/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Channel (US) Eastern Feed
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Channel (US) Eastern Feed
 https://tvpass.org/live/DiscoveryChannelEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Family Channel
+#EXTINF:-1 tvg-id="discovery-family-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney Eastern Feed
+#EXTINF:-1 tvg-id="discovery-life-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1 tvg-id="disney-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney Eastern Feed
 https://tvpass.org/live/DisneyChannelEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney Junior USA East
+#EXTINF:-1 tvg-id="disney-junior-usa-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney Junior USA East
 https://tvpass.org/live/DisneyJuniorEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney XD USA Eastern Feed
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Disney XD USA Eastern Feed
 https://tvpass.org/live/DisneyXDEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",E! Entertainment USA Eastern Feed
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",E! Entertainment USA Eastern Feed
 https://tvpass.org/live/EEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN Deportes
+#EXTINF:-1 tvg-id="espn"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 tvg-id="espn-deportes"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN Deportes
 https://tvpass.org/live/espn-deportes/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN News
+#EXTINF:-1 tvg-id="espn-news"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN News
 https://tvpass.org/live/ESPNews/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN U
+#EXTINF:-1 tvg-id="espn-u"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN U
 https://tvpass.org/live/ESPNU/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Detroit
+#EXTINF:-1 tvg-id="espn2"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1 tvg-id="fanduel-sports-indiana"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Indiana
+https://tvpass.org/live/fanduel-sports-indiana/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-detroit-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Detroit
 https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Ohio Cleveland
+#EXTINF:-1 tvg-id="fanduel-sports-network-florida"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Florida
+https://tvpass.org/live/fanduel-sports-network-florida/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-great-lakes"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Great Lakes
+https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-north"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network North
+https://tvpass.org/live/fanduel-sports-network-north/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-ohio-cleveland"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Ohio Cleveland
 https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network South Carolinas
+#EXTINF:-1 tvg-id="fanduel-sports-network-oklahoma"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Oklahoma
+https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-san-diego"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network San Diego
+https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-socal"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Socal
+https://tvpass.org/live/fanduel-sports-network-socal/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-carolinas"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network South Carolinas
 https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network South Tennessee
+#EXTINF:-1 tvg-id="fanduel-sports-network-south-tennessee-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network South Tennessee
 https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast Georgia
+#EXTINF:-1 tvg-id="fanduel-sports-network-west"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+#EXTINF:-1 tvg-id="fanduel-sports-network-wisconsin"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Network Wisconsin
+https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-georgia"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast Georgia
 https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast North Carolina
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-north-carolina"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast North Carolina
 https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast South Carolina
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-south-carolina"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast South Carolina
 https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast Tennessee Nashville
+#EXTINF:-1 tvg-id="fanduel-sports-southeast-tennessee-nashville"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Southeast Tennessee Nashville
 https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Tennessee East
+#EXTINF:-1 tvg-id="bally-sports-sun"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Sun
+https://tvpass.org/live/fanduel-sports-sun/sd
+#EXTINF:-1 tvg-id="fanduel-sports-tennessee-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fanduel Sports Tennessee East
 https://tvpass.org/live/fanduel-sports-tennessee-east/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Food Network USA Eastern Feed
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Food Network USA Eastern Feed
 https://tvpass.org/live/FoodNetworkEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Freeform East Feed
+#EXTINF:-1 tvg-id="fox-business"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Business
+https://tvpass.org/live/FoxBusiness/sd
+#EXTINF:-1 tvg-id="fox-news"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1 tvg-id="fox-sports-1"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1 tvg-id="fox-sports-2"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1 tvg-id="freeform-east-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Freeform East Feed
 https://tvpass.org/live/FreeformEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FUSE TV Eastern feed
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FUSE TV Eastern feed
 https://tvpass.org/live/FuseEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FX Movie Channel
+#EXTINF:-1 tvg-id="fx-movie-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FX Movie Channel
 https://tvpass.org/live/FXMovieChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FX Networks East Coast
+#EXTINF:-1 tvg-id="fx-networks-east-coast"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FX Networks East Coast
 https://tvpass.org/live/FXEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FXX USA Eastern
+#EXTINF:-1 tvg-id="fxx-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FXX USA Eastern
 https://tvpass.org/live/FXXEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FYI USA Eastern
+#EXTINF:-1 tvg-id="fyi-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FYI USA Eastern
 https://tvpass.org/live/FYIEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Game Show Network East
+#EXTINF:-1 tvg-id="game-show-network-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Game Show Network East
 https://tvpass.org/live/game-show-network-east/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Eastern Feed
+#EXTINF:-1 tvg-id="golf-channel-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1 tvg-id="hallmark-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Eastern Feed
 https://tvpass.org/live/HallmarkChannelEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Family HD
+#EXTINF:-1 tvg-id="hallmark-family-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Family HD
 https://tvpass.org/live/HallmarkDrama/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Mystery Eastern HD
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Hallmark Mystery Eastern HD
 https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO 2 Eastern Feed
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO 2 Eastern Feed
 https://tvpass.org/live/HBO2East/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Comedy HD East
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Comedy HD East
 https://tvpass.org/live/HBOComedyEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Eastern Feed
+#EXTINF:-1 tvg-id="hbo-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Eastern Feed
 https://tvpass.org/live/HBOEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Family Eastern Feed
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Family Eastern Feed
 https://tvpass.org/live/HBOFamilyEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Signature (HBO 3) Eastern
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Signature (HBO 3) Eastern
 https://tvpass.org/live/HBOSignatureEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Zone HD East
+#EXTINF:-1 tvg-id="hbo-zone-hd-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HBO Zone HD East
 https://tvpass.org/live/HBOZoneEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HGTV USA Eastern Feed
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HGTV USA Eastern Feed
 https://tvpass.org/live/HGTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",History Channel US Eastern Feed
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",History Channel US Eastern Feed
 https://tvpass.org/live/HistoryEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Independent Film Channel US
+#EXTINF:-1 tvg-id="hln"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1 tvg-id="independent-film-channel-us"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Independent Film Channel US
 https://tvpass.org/live/IFCEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Investigation Discovery USA Eastern
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Investigation Discovery USA Eastern
 https://tvpass.org/live/InvestigationDiscoveryEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ION Eastern Feed
+#EXTINF:-1 tvg-id="ion-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ION Eastern Feed
 https://tvpass.org/live/IONTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Lifetime Movies East
+#EXTINF:-1 tvg-id="lifetime-movies-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Lifetime Movies East
 https://tvpass.org/live/LifetimeMoviesEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Lifetime Network US Eastern Feed
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Lifetime Network US Eastern Feed
 https://tvpass.org/live/LifetimeEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",LOGO East
+#EXTINF:-1 tvg-id="logo-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",LOGO East
 https://tvpass.org/live/LogoEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Marquee Sports Network
+#EXTINF:-1 tvg-id="marquee-sports-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Marquee Sports Network
 https://tvpass.org/live/marquee-sports-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MeTV Toons (WJLP2) New Jersey
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MeTV Toons (WJLP2) New Jersey
 https://tvpass.org/live/metv-toons/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MeTV Wjlp New Jerseynew York
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MeTV Wjlp New Jerseynew York
 https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Midatlantic Sports Network
+#EXTINF:-1 tvg-id="midatlantic-sports-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Midatlantic Sports Network
 https://tvpass.org/live/midatlantic-sports-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Monumental Sports Network
+#EXTINF:-1 tvg-id="mlb-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 tvg-id="monumental-sports-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Monumental Sports Network
 https://tvpass.org/live/monumental-sports-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MoreMax Eastern
+#EXTINF:-1 tvg-id="moremax-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MoreMax Eastern
 https://tvpass.org/live/MoreMaxEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MovieMax (Max 6) East
+#EXTINF:-1 tvg-id="motor-trend-hd"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1 tvg-id="moviemax-max-6-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MovieMax (Max 6) East
 https://tvpass.org/live/MovieMaxEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSG Madison Square Gardens
+#EXTINF:-1 tvg-id="msg-madison-square-gardens"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSG Madison Square Gardens
 https://tvpass.org/live/msg-madison-square-gardens/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSNBC USA
+#EXTINF:-1 tvg-id="msg-plus"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSG Plus
+https://tvpass.org/live/msg-plus/sd
+#EXTINF:-1 tvg-id="msnbc-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MSNBC USA
 https://tvpass.org/live/MSNBC/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MTV 2 East
+#EXTINF:-1 tvg-id="mtv-2-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MTV 2 East
 https://tvpass.org/live/mtv-2-east/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MTV USA Eastern Feed
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",MTV USA Eastern Feed
 https://tvpass.org/live/MTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",National Geographic US Eastern
+#EXTINF:-1 tvg-id="national-geographic-us-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",National Geographic US Eastern
 https://tvpass.org/live/NationalGeographicEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBA TV USA
+#EXTINF:-1 tvg-id="national-geographic-wild"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1 tvg-id="nba-tv-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBA TV USA
 https://tvpass.org/live/NBATV/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="nbc-sports-bay-area"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Bay Area
 https://tvpass.org/live/nbc-sports-bay-area/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Boston
+#EXTINF:-1 tvg-id="nbc-sports-boston"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Boston
 https://tvpass.org/live/nbc-sports-boston/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",New England Sports Network
+#EXTINF:-1 tvg-id="nbc-sports-california"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1 tvg-id="nbc-sports-philadelphia"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1 tvg-id="new-england-sports-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",New England Sports Network
 https://tvpass.org/live/new-england-sports-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NFL RedZone
+#EXTINF:-1 tvg-id="newsmax-tv"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NewsMax TV
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1 tvg-id="nfl-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 tvg-id="nfl-redzone"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NFL RedZone
 https://tvpass.org/live/NFLRedZone/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NHL Network USA
+#EXTINF:-1 tvg-id="nhl-network-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NHL Network USA
 https://tvpass.org/live/NHLNetwork/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nick Jr. East
+#EXTINF:-1 tvg-id="nick-jr-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nick Jr. East
 https://tvpass.org/live/NickJrEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nickelodeon USA East Feed
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nickelodeon USA East Feed
 https://tvpass.org/live/NickelodeonEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nicktoons East
+#EXTINF:-1 tvg-id="nicktoons-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Nicktoons East
 https://tvpass.org/live/NicktoonsEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ABC
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ABC NY
 https://tvpass.org/live/WABCDT1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",CBS NY
 https://tvpass.org/live/WCBSDT1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FOX 5
-https://tvpass.org/live/WNYWDT1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",BBC News
+#EXTINF:-1 tvg-id="nbc-wnbc-new-york-ny"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",NBC NY
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1 tvg-id="pbs-wnet-new-york-ny"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",PBC NY
 https://tvpass.org/live/WNET/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Oprah Winfrey Network USA Eastern
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",FOX NY
+https://tvpass.org/live/WNYWDT1/sd
+#EXTINF:-1 tvg-id="oprah-winfrey-network-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Oprah Winfrey Network USA Eastern
 https://tvpass.org/live/OWNEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Outdoor Channel US
+#EXTINF:-1 tvg-id="outdoor-channel-us"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Outdoor Channel US
 https://tvpass.org/live/OutdoorChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Oxygen Eastern Feed
+#EXTINF:-1 tvg-id="oxygen-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Oxygen Eastern Feed
 https://tvpass.org/live/OxygenEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ReelzChannel
+#EXTINF:-1 tvg-id="reelzchannel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ReelzChannel
 https://tvpass.org/live/Reelz/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Science
+#EXTINF:-1 tvg-id="science"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Science
 https://tvpass.org/live/Science/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SEC Network
+#EXTINF:-1 tvg-id="sec-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SEC Network
 https://tvpass.org/live/SECN/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Showtime 2 Eastern
+#EXTINF:-1 tvg-id="showtime-2-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Showtime 2 Eastern
 https://tvpass.org/live/Showtime2East/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Showtime Eastern Feed
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Showtime Eastern Feed
 https://tvpass.org/live/ShowtimeEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SNY Sportsnet New York Comcast
+#EXTINF:-1 tvg-id="sny-sportsnet-new-york-comcast"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SNY Sportsnet New York Comcast
 https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Space City Home Network
+#EXTINF:-1 tvg-id="space-city-home-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Space City Home Network
 https://tvpass.org/live/space-city-home-network/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Spectrum SportsNet LA
+#EXTINF:-1 tvg-id="spectrum-sportsnet-la"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Spectrum SportsNet LA
 https://tvpass.org/live/spectrum-sportsnet-la/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Spectrum Sportsnet Lakers
+#EXTINF:-1 tvg-id="spectrum-sportsnet"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Spectrum Sportsnet Lakers
 https://tvpass.org/live/spectrum-sportsnet/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet (East)
+#EXTINF:-1 tvg-id="sportsnet-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet 360
+#EXTINF:-1 tvg-id="sportsnet-360"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet 360
 https://tvpass.org/live/sportsnet-360/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet One
+#EXTINF:-1 tvg-id="sportsnet-one"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet One
 https://tvpass.org/live/sportsnet-one/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Ontario
+#EXTINF:-1 tvg-id="sportsnet-ontario"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Ontario
 https://tvpass.org/live/sportsnet-ontario/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Pacific
+#EXTINF:-1 tvg-id="sportsnet-pacific"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Pittsburgh
+#EXTINF:-1 tvg-id="sportsnet-pittsburgh"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet Pittsburgh
 https://tvpass.org/live/sportsnet-pittsburgh/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet West
+#EXTINF:-1 tvg-id="sportsnet-west"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Sportsnet West
 https://tvpass.org/live/sportsnet-west/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Starz Eastern
+#EXTINF:-1 tvg-id="starz-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Starz Eastern
 https://tvpass.org/live/StarzEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SundanceTV USA East
+#EXTINF:-1 tvg-id="sundancetv-usa-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",SundanceTV USA East
 https://tvpass.org/live/SundanceTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Syfy Eastern Feed
+#EXTINF:-1 tvg-id="syfy-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Syfy Eastern Feed
 https://tvpass.org/live/SyfyEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TBS East
+#EXTINF:-1 tvg-id="tbs-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TBS East
 https://tvpass.org/live/TBSEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TeenNick Eastern
+#EXTINF:-1 tvg-id="teennick-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TeenNick Eastern
 https://tvpass.org/live/TeenNickEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Telemundo Eastern Feed
+#EXTINF:-1 tvg-id="telemundo-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Telemundo Eastern Feed
 https://tvpass.org/live/TelemundoEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Cooking Channel
+#EXTINF:-1 tvg-id="the-cooking-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Cooking Channel
 https://tvpass.org/live/CookingChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Tennis Channel
+#EXTINF:-1 tvg-id="the-tennis-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Tennis Channel
 https://tvpass.org/live/TennisChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Weather Channel
+#EXTINF:-1 tvg-id="the-weather-channel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",The Weather Channel
 https://tvpass.org/live/TheWeatherChannel/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TLC USA Eastern
+#EXTINF:-1 tvg-id="tlc-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TLC USA Eastern
 https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TMC (US) Eastern Feed
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TMC (US) Eastern Feed
 https://tvpass.org/live/TheMovieChannelEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TNT Eastern Feed
+#EXTINF:-1 tvg-id="tnt-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TNT Eastern Feed
 https://tvpass.org/live/TNTEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Travel US East
+#EXTINF:-1 tvg-id="travel-us-east"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Travel US East
 https://tvpass.org/live/TravelChannelEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",truTV USA Eastern
+#EXTINF:-1 tvg-id="trutv-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",truTV USA Eastern
 https://tvpass.org/live/truTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN1
+#EXTINF:-1 tvg-id="tsn1"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN1
 https://tvpass.org/live/tsn1/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN2
+#EXTINF:-1 tvg-id="tsn2"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN2
 https://tvpass.org/live/tsn2/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN3
+#EXTINF:-1 tvg-id="tsn3"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN3
 https://tvpass.org/live/tsn3/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN4
+#EXTINF:-1 tvg-id="tsn4"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN4
 https://tvpass.org/live/tsn4/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN5
+#EXTINF:-1 tvg-id="tsn5"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TSN5
 https://tvpass.org/live/tsn5/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Turner Classic Movies USA
+#EXTINF:-1 tvg-id="turner-classic-movies-usa"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Turner Classic Movies USA
 https://tvpass.org/live/TCMEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TV Land Eastern
+#EXTINF:-1 tvg-id="tv-land-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TV Land Eastern
 https://tvpass.org/live/tv-land-eastern/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Universal Kids
+#EXTINF:-1 tvg-id="tv-one"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TV One
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1 tvg-id="universal-kids"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Universal Kids
 https://tvpass.org/live/UniversalKidsEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Univision Eastern Feed
+#EXTINF:-1 tvg-id="univision-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Univision Eastern Feed
 https://tvpass.org/live/UnivisionEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",USA Network East Feed
+#EXTINF:-1 tvg-id="usa-network-east-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",USA Network East Feed
 https://tvpass.org/live/USANetworkEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",VH1 Eastern Feed
+#EXTINF:-1 tvg-id="vh1-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",VH1 Eastern Feed
 https://tvpass.org/live/VH1East/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",VICE
+#EXTINF:-1 tvg-id="vice"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",VICE
 https://tvpass.org/live/VICETV/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",WE (Women's Entertainment) Eastern
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",WE (Women's Entertainment) Eastern
 https://tvpass.org/live/WeTVEast/sd
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Yes Network
+#EXTINF:-1 tvg-id="wpix-new-york-superstation"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",WPIX New York (SUPERSTATION)
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1 tvg-id="yes-network"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/f.l/u.s.a.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Yes Network
 https://tvpass.org/live/yes-network/sd
 #EXTINF:-1 tvg-id="Israel"tvg-logo=""group-title=""catchup=""catchup-days="",
 http://Israel.m3u8
