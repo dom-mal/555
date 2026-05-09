@@ -985,38 +985,40 @@ https://cdntv.online/low/na2wp5sud6/179.m3u8
 https://cdntv.online/low/na2wp5sud6/172.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 https://2.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/473.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ключ
-https://cdntv.online/low/na2wp5sud6/473.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/469.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Анекдот ТВ
-https://cdntv.online/low/na2wp5sud6/469.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/472.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",КВН ТВ
-https://cdntv.online/low/na2wp5sud6/472.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1511.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Твое ТВ Юмор
-https://cdntv.online/low/na2wp5sud6/1511.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
-https://2.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1579.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ювелирочка
-https://cdntv.online/low/na2wp5sud6/1579.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1332.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Gagsnetwork
-https://cdntv.online/low/na2wp5sud6/1332.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1671.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Just TV
-https://cdntv.online/low/na2wp5sud6/1671.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/2021.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",LIBERTY Шоу
-https://cdntv.online/low/na2wp5sud6/2021.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
-https://2.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия
+#EXTINF:-1 tvg-id="tlc"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.r.u.s.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия
 http://46.32.176.50/tlc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Balkans HD
+#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.b.a.l.h.d.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Balkans HD
 https://cdntv.online/low/na2wp5sud6/170.m3u8
-#EXTINF:-1 tvg-id="2138"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Latvia HD
+#EXTINF:-1 tvg-id="tlc.lv"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.l.a.t.h.d.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Latvia HD
 https://cdntv.online/low/na2wp5sud6/2138.m3u8
-#EXTINF:-1 tvg-id="tlc-usa-eastern"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC USA Eastern
+#EXTINF:-1 tvg-id="tlc-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.u.s.a.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC USA Eastern
 https://tvpass.org/live/TLCEast/sd
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 https://2.m3u8
 #EXTINF:-1 tvg-id="hgtv"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/h.g.t.v.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
 https://cdntv.online/low/na2wp5sud6/1033.m3u8
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/h.g.t.v.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/473.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ключ
+https://cdntv.online/low/na2wp5sud6/473.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/469.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Анекдот ТВ
+https://cdntv.online/low/na2wp5sud6/469.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+https://2.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/472.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",КВН ТВ
+https://cdntv.online/low/na2wp5sud6/472.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1511.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Твое ТВ Юмор
+https://cdntv.online/low/na2wp5sud6/1511.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1579.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ювелирочка
+https://cdntv.online/low/na2wp5sud6/1579.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1332.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Gagsnetwork
+https://cdntv.online/low/na2wp5sud6/1332.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+https://2.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/1671.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Just TV
+https://cdntv.online/low/na2wp5sud6/1671.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/2021.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",LIBERTY Шоу
+https://cdntv.online/low/na2wp5sud6/2021.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Sky High LO FI HD
 https://cdntv.online/low/na2wp5sud6/1543.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/428.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Fashion TV HD
@@ -1039,7 +1041,7 @@ https://cdntv.online/low/na2wp5sud6/2226.m3u8
 https://cdntv.online/low/na2wp5sud6/847.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://epg.cdntv.online/img/846.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Аквариум HD
 https://cdntv.online/low/na2wp5sud6/846.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Balkans
+#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.b.a.l.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Balkans
 https://cdntv.online/low/na2wp5sud6/169.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo="https://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Discovery
 https://cdntv.online/low/na2wp5sud6/299.m3u8
