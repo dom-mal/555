@@ -1005,13 +1005,13 @@ http://cdntv.online/low/na2wp5sud6/1671.m3u8
 http://cdntv.online/low/na2wp5sud6/2021.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Pan Regional
-http://cdntv.online/low/na2wp5sud6/169.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия HD
+#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.eur.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Pan Regional HD
+http://cdntv.online/low/na2wp5sud6/170.m3u8
+#EXTINF:-1 tvg-id="tlc"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.rus.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC Россия HD
 http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/232/index.m3u8
-#EXTINF:-1 tvg-id="tlc-usa-eastern"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC USA Eastern
+#EXTINF:-1 tvg-id="tlc-usa-eastern"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.usa.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",TLC USA Eastern
 https://tvpass.org/live/TLCEast/sd
-#EXTINF:-1 tvg-id="hgtv"tvg-logo=""group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
+#EXTINF:-1 tvg-id="hgtv"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/h.g.t.v.hd.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
 http://cdntv.online/low/na2wp5sud6/1033.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
@@ -1037,6 +1037,8 @@ http://cdntv.online/low/na2wp5sud6/2226.m3u8
 http://cdntv.online/low/na2wp5sud6/847.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/846.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Аквариум HD
 http://cdntv.online/low/na2wp5sud6/846.m3u8
+#EXTINF:-1 tvg-id="tlc-blk"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.l.c.eur.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Pan Regional
+http://cdntv.online/low/na2wp5sud6/169.m3u8
 #EXTINF:-1 tvg-id="discovery-channel"tvg-logo="http://epg.cdntv.online/img/299.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Discovery
 http://cdntv.online/low/na2wp5sud6/299.m3u8
 #EXTINF:-1 tvg-id="306"tvg-logo="http://epg.cdntv.online/img/306.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ID Investigation Discovery
@@ -14077,8 +14079,6 @@ http://cdntv.online/low/na2wp5sud6/288.m3u8
 http://cdntv.online/low/na2wp5sud6/361.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://9.m3u8
-#EXTINF:-1 tvg-id="tlc-blk"tvg-logo=""group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",TLC Pan Regional HD
-http://cdntv.online/low/na2wp5sud6/170.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/20.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Муз ТВ HD
 http://cdntv.online/low/na2wp5sud6/2280.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/2048.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",KHL HD
