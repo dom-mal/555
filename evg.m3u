@@ -1,4 +1,5 @@
-﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz; https://tvpass.org/epg.xml; http://epg.one/epg.xml.gz; https://iptvx.one/EPG"
+
 #EXTINF:-1 tvg-id="225"tvg-logo="https://cdn.epg.one/img/690.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup="shift"catchup-days="3",Санкт-Петербург
 http://cdntv.online/low/7hbsx8fpdtn2/225.m3u8
 #EXTINF:-1 tvg-id="2294"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv0SoWo5cs08RN4_S58QmIcKOxbwMuZ4i12Q&s"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup="shift"catchup-days="3",ЛенТВ 24
