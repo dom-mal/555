@@ -183,8 +183,6 @@ http://5.m3u8
 https://cdntv.online/high/i9u5pr8bw6th/171.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/350.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Ратник HD
 https://cdntv.online/high/i9u5pr8bw6th/350.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Московский образовательный
-https://cdntv.online/high/i9u5pr8bw6th/224.m3u8
 #EXTINF:-1 tvg-id="rgvk-dagestan"tvg-logo="https://cdn.epg.one/img/7710.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",РГВК Дагестан
 https://cdntv.online/high/i9u5pr8bw6th/525.m3u8
 #EXTINF:-1 tvg-id="grozny"tvg-logo="http://epg.cdntv.online/img/1249.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",ЧГТРК Грозный
@@ -375,7 +373,7 @@ https://cdntv.online/high/i9u5pr8bw6th/2070.m3u8
 https://cdntv.online/high/i9u5pr8bw6th/346.m3u8
 #EXTINF:-1 tvg-id="907"tvg-logo="http://livetv24.org/images/2773.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",День победы HD
 https://cdntv.online/high/i9u5pr8bw6th/907.m3u8
-#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Мужское Кино
+#EXTINF:-1 tvg-id="128"tvg-logo="http://livetv24.org/images/1584.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Мужское Кино
 https://cdntv.online/high/i9u5pr8bw6th/128.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://6.m3u8
@@ -977,7 +975,7 @@ https://cdntv.online/high/i9u5pr8bw6th/322.m3u8
 https://cdntv.online/high/i9u5pr8bw6th/1678.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/663.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Сарафан
 https://cdntv.online/high/i9u5pr8bw6th/179.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/783.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="",Ностальгия
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/783.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ностальгия
 https://cdntv.online/high/i9u5pr8bw6th/172.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://2.m3u8
@@ -1159,8 +1157,10 @@ https://cdntv.online/high/i9u5pr8bw6th/265.m3u8
 https://cdntv.online/high/i9u5pr8bw6th/266.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/987.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",History
 https://cdntv.online/high/i9u5pr8bw6th/987.m3u8
-#EXTINF:-1 tvg-id="moskovsky-obrazovatelny"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7oU70fEVRi8Ua65DFpggcXkFzFmzvdrZcMw&s"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",MOSOBR.TV
+#EXTINF:-1 tvg-id="moskovsky-obrazovatelny"tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",МосОбрТВ
 https://cdntv.online/high/i9u5pr8bw6th/454.m3u8
+#EXTINF:-1 tvg-id="moskovsky-obrazovatelny"tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Московский образовательный
+https://cdntv.online/high/i9u5pr8bw6th/224.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/370.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nano TV
 https://cdntv.online/high/i9u5pr8bw6th/370.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/445.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",NHK World
@@ -1222,7 +1222,7 @@ https://cdntv.online/high/i9u5pr8bw6th/1657.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/338.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Love Nature HD (EN)
 https://cdntv.online/high/i9u5pr8bw6th/338.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/2553.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Space Live
-https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/high/master/playlist.m3u8
+https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/low/master/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/451.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Здоровое ТВ
 https://cdntv.online/high/i9u5pr8bw6th/451.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1683.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Живи Активно
@@ -1243,137 +1243,137 @@ https://cdntv.online/high/i9u5pr8bw6th/517.m3u8
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/345.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Первый вегетарианский HD
 https://cdntv.online/high/i9u5pr8bw6th/345.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo="http://epg.cdntv.online/img/146.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Nickelodeon
+#EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo="http://epg.cdntv.online/img/146.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Nickelodeon
 https://cdntv.online/high/i9u5pr8bw6th/146.m3u8
-#EXTINF:-1 tvg-id="nick-jr"tvg-logo="http://epg.cdntv.online/img/145.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Nick Jr
+#EXTINF:-1 tvg-id="nick-jr"tvg-logo="http://epg.cdntv.online/img/145.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Nick Jr
 https://cdntv.online/high/i9u5pr8bw6th/145.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/480.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Boomerang
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/480.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Boomerang
 https://cdntv.online/high/i9u5pr8bw6th/480.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/141.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Cartoon Network
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/141.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Cartoon Network
 https://cdntv.online/high/i9u5pr8bw6th/141.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/154.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Мама
-https://cdntv.online/high/i9u5pr8bw6th/154.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/153.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",МУЛЬТ
-https://cdntv.online/high/i9u5pr8bw6th/153.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2188.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",КиноМульт
-https://cdntv.online/high/i9u5pr8bw6th/2188.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/8.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Карусель
-https://cdntv.online/high/i9u5pr8bw6th/8.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/143.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Солнце
-https://cdntv.online/high/i9u5pr8bw6th/143.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/485.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Уникум
-https://cdntv.online/high/i9u5pr8bw6th/485.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2189.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",СуперГерои
-https://cdntv.online/high/i9u5pr8bw6th/2189.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/484.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",В Гостях у сказки HD
-https://cdntv.online/high/i9u5pr8bw6th/484.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.h.e.s.i.m.p.s_1.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Сериал "Симпсоны"
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.h.e.s.i.m.p.s_1.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Сериал "Симпсоны"
 https://cdntv.online/high/i9u5pr8bw6th/1267.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.h.e.s.i.m.p.s_2.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Симпсоны
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/t.h.e.s.i.m.p.s_2.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Симпсоны
 https://cdntv.online/high/i9u5pr8bw6th/2012.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1545.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MS Animated
-https://cdntv.online/high/i9u5pr8bw6th/1545.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/s.p.o.n.g.e.b.o.b.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY PLANKTON
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/s.p.o.n.g.e.b.o.b.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY PLANKTON
 https://cdntv.online/high/i9u5pr8bw6th/2043.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/897.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Маша и Медведь
-https://cdntv.online/high/i9u5pr8bw6th/897.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/149.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Детский мир
-https://cdntv.online/high/i9u5pr8bw6th/149.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/894.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Детское кино
-https://cdntv.online/high/i9u5pr8bw6th/894.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2072.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",МУЛЬТВЕРСИЯ
-https://cdntv.online/high/i9u5pr8bw6th/2072.m3u8
-#EXTINF:-1 tvg-id="Ералаш"tvg-logo="http://livetv24.org/images/4775.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Ералаш
-https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="minimax-tom-and-jerry"tvg-logo="http://livetv24.org/images/5129.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MM Tom And Jerry HD
+#EXTINF:-1 tvg-id="minimax-tom-and-jerry"tvg-logo="http://livetv24.org/images/5129.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",MM Tom And Jerry HD
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/162.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",СТС Kids
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/154.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Мама
+https://cdntv.online/high/i9u5pr8bw6th/154.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/153.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",МУЛЬТ
+https://cdntv.online/high/i9u5pr8bw6th/153.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2188.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",КиноМульт
+https://cdntv.online/high/i9u5pr8bw6th/2188.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/8.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Карусель
+https://cdntv.online/high/i9u5pr8bw6th/8.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/143.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Солнце
+https://cdntv.online/high/i9u5pr8bw6th/143.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/485.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Уникум
+https://cdntv.online/high/i9u5pr8bw6th/485.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2189.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",СуперГерои
+https://cdntv.online/high/i9u5pr8bw6th/2189.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/484.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",В Гостях у сказки HD
+https://cdntv.online/high/i9u5pr8bw6th/484.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1545.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",MS Animated
+https://cdntv.online/high/i9u5pr8bw6th/1545.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/897.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Маша и Медведь
+https://cdntv.online/high/i9u5pr8bw6th/897.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/149.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Детский мир
+https://cdntv.online/high/i9u5pr8bw6th/149.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/894.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Детское кино
+https://cdntv.online/high/i9u5pr8bw6th/894.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2072.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",МУЛЬТВЕРСИЯ
+https://cdntv.online/high/i9u5pr8bw6th/2072.m3u8
+#EXTINF:-1 tvg-id="Ералаш"tvg-logo="http://livetv24.org/images/4775.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Ералаш
+https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/162.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",СТС Kids
 https://cdntv.online/high/i9u5pr8bw6th/162.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/466.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",2x2
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/466.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",2x2
 https://cdntv.online/high/i9u5pr8bw6th/466.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2191.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Лёва
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2191.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Лёва
 https://cdntv.online/high/i9u5pr8bw6th/2191.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/157.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Мультимания
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/157.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Мультимания
 https://cdntv.online/high/i9u5pr8bw6th/157.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/158.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Мультимузыка
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/158.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Мультимузыка
 https://cdntv.online/high/i9u5pr8bw6th/158.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/488.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Радость моя
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/488.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Радость моя
 https://cdntv.online/high/i9u5pr8bw6th/488.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/161.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Рыжий
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/161.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Рыжий
 https://cdntv.online/high/i9u5pr8bw6th/161.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/163.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Сказки зайки
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/163.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Сказки зайки
 https://cdntv.online/high/i9u5pr8bw6th/163.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/164.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Смайлик ТВ
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/164.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Смайлик ТВ
 https://cdntv.online/high/i9u5pr8bw6th/164.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/165.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Советские мультфильмы
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/165.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Советские мультфильмы
 https://cdntv.online/high/i9u5pr8bw6th/165.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2286.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",alpha Funny HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2286.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",alpha Funny HD
 https://cdntv.online/high/i9u5pr8bw6th/2286.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1491.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Anime TV HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1491.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Anime TV HD
 https://cdntv.online/high/i9u5pr8bw6th/1491.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1252.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Cartoons 90
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1252.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Cartoons 90
 https://cdntv.online/high/i9u5pr8bw6th/1252.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1254.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Cartoons Big
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1254.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Cartoons Big
 https://cdntv.online/high/i9u5pr8bw6th/1254.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1253.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Cartoons Short
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1253.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Cartoons Short
 https://cdntv.online/high/i9u5pr8bw6th/1253.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1975.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",CineMan KIDS 4K
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1975.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",CineMan KIDS 4K
 https://cdntv.online/high/i9u5pr8bw6th/1975.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1260.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",CineMan Marvel
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1260.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",CineMan Marvel
 https://cdntv.online/high/i9u5pr8bw6th/1260.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1660.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Clarity4k Anime
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1660.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Clarity4k Anime
 https://cdntv.online/high/i9u5pr8bw6th/1660.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1665.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Clarity4K Kинодети CССР
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1665.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Clarity4K Kинодети CССР
 https://cdntv.online/high/i9u5pr8bw6th/1665.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1576.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Clarity4K Walt Disney
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1576.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Clarity4K Walt Disney
 https://cdntv.online/high/i9u5pr8bw6th/1576.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1577.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Clarity4K Мультимир
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1577.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Clarity4K Мультимир
 https://cdntv.online/high/i9u5pr8bw6th/1577.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1645.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Clarity4K Мультляндия
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1645.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Clarity4K Мультляндия
 https://cdntv.online/high/i9u5pr8bw6th/1645.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1991.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Fresh Kids
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1991.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Fresh Kids
 https://cdntv.online/high/i9u5pr8bw6th/1991.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2033.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY МиМ
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2033.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY МиМ
 https://cdntv.online/high/i9u5pr8bw6th/2033.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2020.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY ANIME
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2020.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY ANIME
 https://cdntv.online/high/i9u5pr8bw6th/2020.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2018.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY BEBIMULT
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2018.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY BEBIMULT
 https://cdntv.online/high/i9u5pr8bw6th/2018.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2008.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY DISNEY
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2008.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY DISNEY
 https://cdntv.online/high/i9u5pr8bw6th/2008.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2053.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY DREAM WORKS
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2053.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY DREAM WORKS
 https://cdntv.online/high/i9u5pr8bw6th/2053.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2037.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY MULT ENG
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2037.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY MULT ENG
 https://cdntv.online/high/i9u5pr8bw6th/2037.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2014.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Южный парк
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2014.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Южный парк
 https://cdntv.online/high/i9u5pr8bw6th/2014.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2042.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Крош
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2042.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Крош
 https://cdntv.online/high/i9u5pr8bw6th/2042.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2027.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Мульт 4K
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2027.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Мульт 4K
 https://cdntv.online/high/i9u5pr8bw6th/2027.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2007.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Пиксар
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2007.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Пиксар
 https://cdntv.online/high/i9u5pr8bw6th/2007.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2032.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",LIBERTY Сказки
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/2032.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Сказки
 https://cdntv.online/high/i9u5pr8bw6th/2032.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1557.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MS Magic HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1557.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",MS Magic HD
 https://cdntv.online/high/i9u5pr8bw6th/1557.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1555.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MS Toons HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1555.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",MS Toons HD
 https://cdntv.online/high/i9u5pr8bw6th/1555.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1348.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",VL Cartoons
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1348.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",VL Cartoons
 https://cdntv.online/high/i9u5pr8bw6th/1348.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Bunny HD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Bunny HD
 https://cdntv.online/high/i9u5pr8bw6th/1522.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Dragon FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Dragon FHD
 https://cdntv.online/high/i9u5pr8bw6th/2276.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Junior FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Junior FHD
 https://cdntv.online/high/i9u5pr8bw6th/1534.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Nick S FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Nick S FHD
 https://cdntv.online/high/i9u5pr8bw6th/1532.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Teen FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Teen FHD
 https://cdntv.online/high/i9u5pr8bw6th/1535.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Sky High Toon S FHD
+#EXTINF:-1 tvg-id=""tvg-logo="https://vse-tv.net/picon/skyhigh-uhdhdr.gif"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Sky High Toon S FHD
 https://cdntv.online/high/i9u5pr8bw6th/1533.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1395.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Z!Smile HD
+#EXTINF:-1 tvg-id=""tvg-logo="http://epg.cdntv.online/img/1395.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Z!Smile HD
 https://cdntv.online/high/i9u5pr8bw6th/1395.m3u8
 #EXTINF:-1 tvg-id="1497"tvg-logo="http://livetv24.org/images/4605.png"group-title="₀₈ 🏀 Спорт"catchup="shift"catchup-days="3",Хоккей ТВ
 https://cdntv.online/high/i9u5pr8bw6th/1497.m3u8
@@ -1630,7 +1630,7 @@ http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
 #EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-shanson.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Шансон
-http://chanson-video.hostingradio.ru:8080/high/chansonabr/live.m3u8
+http://chanson-video.hostingradio.ru:8080/low/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-retro-fm.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
