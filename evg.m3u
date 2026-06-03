@@ -12479,13 +12479,13 @@ https://m.cdntv.online/f/7hbsx8fpdtn2/Unit234.m3u8
 https://m.cdntv.online/f/7hbsx8fpdtn2/YacheykaObshestva.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.cdntv.online/tvg-logo/7hbsx8fpdtn2/Opeundeodoeo.jpg"group-title="₁₁ 🎬 Фильмотека"catchup=""catchup-days="",Ящик Пандоры (2022)
 https://m.cdntv.online/f/7hbsx8fpdtn2/Opeundeodoeo.m3u8
-#EXTINF:-1 tvg-id="781"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/9.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",9 Канал
+#EXTINF:-1 tvg-id="9kanal-israel"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/9.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",9 Канал
 http://cdntv.online/low/7hbsx8fpdtn2/781.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/11.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",KAN 11
+#EXTINF:-1 tvg-id="channel-11-il"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/11.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",KAN 11
 http://cdntv.online/low/7hbsx8fpdtn2/1003.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/12.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Keshet 12
+#EXTINF:-1 tvg-id="channel-12-il"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/12.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Keshet 12
 http://cdntv.online/low/7hbsx8fpdtn2/1004.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/13.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Reshet 13
+#EXTINF:-1 tvg-id="channel-13-il"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/i.c.o.n/13.i.z.r2.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Reshet 13
 http://cdntv.online/low/7hbsx8fpdtn2/1005.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
