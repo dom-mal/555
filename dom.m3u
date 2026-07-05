@@ -949,24 +949,26 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=No28vGsCdN_muaj1BNLKGw&e=2069714069&scheme=https
 #EXTINF:-1 tvg-id="Vera24.ru@SD"tvg-logo="https://i.imgur.com/Qer5Lnh.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",ВЕРА 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="322"tvg-logo="http://epg.cdntv.online/img/322.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Бобёр
-http://cdntv.online/high/y72nkv5zjfdt/322.m3u8
-#EXTINF:-1 tvg-id="1678"tvg-logo="http://epg.cdntv.online/img/1678.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Лапки LIVE
-http://cdntv.online/high/y72nkv5zjfdt/1678.m3u8
-#EXTINF:-1 tvg-id="172"tvg-logo="http://epg.cdntv.online/img/172.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ностальгия
-http://cdntv.online/high/y72nkv5zjfdt/172.m3u8
-#EXTINF:-1 tvg-id="1511"tvg-logo="http://epg.cdntv.online/img/1511.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Твое ТВ Юмор
-http://cdntv.online/high/y72nkv5zjfdt/1511.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo="http://epg.cdntv.online/img/169.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC Россия
-http://46.32.176.50/tlc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="tlc"tvg-logo="http://epg.cdntv.online/img/169.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",TLC
 http://cdntv.online/high/y72nkv5zjfdt/169.m3u8
 #EXTINF:-1 tvg-id="1033"tvg-logo="http://epg.cdntv.online/img/1033.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",HGTV HD
 http://cdntv.online/high/y72nkv5zjfdt/1033.m3u8
+#EXTINF:-1 tvg-id="322"tvg-logo="http://epg.cdntv.online/img/322.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Бобёр
+http://cdntv.online/high/y72nkv5zjfdt/322.m3u8
+#EXTINF:-1 tvg-id="1678"tvg-logo="http://epg.cdntv.online/img/1678.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Лапки LIVE
+http://cdntv.online/high/y72nkv5zjfdt/1678.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
+#EXTINF:-1 tvg-id="172"tvg-logo="http://epg.cdntv.online/img/172.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Ностальгия
+http://cdntv.online/high/y72nkv5zjfdt/172.m3u8
+#EXTINF:-1 tvg-id="1511"tvg-logo="http://epg.cdntv.online/img/1511.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Твое ТВ Юмор
+http://cdntv.online/high/y72nkv5zjfdt/1511.m3u8
 #EXTINF:-1 tvg-id="472"tvg-logo="http://epg.cdntv.online/img/472.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",КВН ТВ
 http://cdntv.online/high/y72nkv5zjfdt/472.m3u8
 #EXTINF:-1 tvg-id="469"tvg-logo="http://epg.cdntv.online/img/469.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",Анекдот ТВ
 http://cdntv.online/high/y72nkv5zjfdt/469.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="473"tvg-logo="http://epg.cdntv.online/img/473.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Ключ
 http://cdntv.online/high/y72nkv5zjfdt/473.m3u8
 #EXTINF:-1 tvg-id="428"tvg-logo="http://epg.cdntv.online/img/428.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Fashion TV HD
@@ -975,6 +977,8 @@ http://cdntv.online/high/y72nkv5zjfdt/428.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/520.m3u8
 #EXTINF:-1 tvg-id="1294"tvg-logo="http://epg.cdntv.online/img/1294.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",RTVi
 http://cdntv.online/high/y72nkv5zjfdt/1294.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="1332"tvg-logo="http://epg.cdntv.online/img/1332.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Gagsnetwork
 http://cdntv.online/high/y72nkv5zjfdt/1332.m3u8
 #EXTINF:-1 tvg-id="1579"tvg-logo="http://epg.cdntv.online/img/1579.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Ювелирочка
@@ -983,6 +987,8 @@ http://cdntv.online/high/y72nkv5zjfdt/1579.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/1671.m3u8
 #EXTINF:-1 tvg-id="2021"tvg-logo="http://epg.cdntv.online/img/2021.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",LIBERTY Шоу
 http://cdntv.online/high/y72nkv5zjfdt/2021.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="1629"tvg-logo="http://epg.cdntv.online/img/1629.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",CineMan Relax 4K
 http://cdntv.online/high/y72nkv5zjfdt/1629.m3u8
 #EXTINF:-1 tvg-id="2220"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/play-x.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x 6 кадров HD
@@ -1007,18 +1013,18 @@ http://cdntv.online/high/y72nkv5zjfdt/846.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/299.m3u8
 #EXTINF:-1 tvg-id="306"tvg-logo="http://epg.cdntv.online/img/306.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ID Investigation Discovery
 http://cdntv.online/high/y72nkv5zjfdt/306.m3u8
-#EXTINF:-1 tvg-id="295"tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Animal Planet
-http://cdntv.online/high/y72nkv5zjfdt/295.m3u8
-#EXTINF:-1 tvg-id="307"tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nat Geo Wild
-http://cdntv.online/high/y72nkv5zjfdt/307.m3u8
-#EXTINF:-1 tvg-id="309"tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",National Geographic
-http://cdntv.online/high/y72nkv5zjfdt/309.m3u8
 #EXTINF:-1 tvg-id="371"tvg-logo="http://epg.cdntv.online/img/371.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel Channel HD
 http://cdntv.online/high/y72nkv5zjfdt/371.m3u8
 #EXTINF:-1 tvg-id="315"tvg-logo="http://epg.cdntv.online/img/315.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Travel+Adventure
 http://cdntv.online/high/y72nkv5zjfdt/315.m3u8
-#EXTINF:-1 tvg-id="329"tvg-logo="http://epg.cdntv.online/img/329.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Живая планета
-http://cdntv.online/high/y72nkv5zjfdt/329.m3u8
+#EXTINF:-1 tvg-id="307"tvg-logo="http://epg.cdntv.online/img/307.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Nat Geo Wild
+http://cdntv.online/high/y72nkv5zjfdt/307.m3u8
+#EXTINF:-1 tvg-id="309"tvg-logo="http://epg.cdntv.online/img/309.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",National Geographic
+http://cdntv.online/high/y72nkv5zjfdt/309.m3u8
+#EXTINF:-1 tvg-id="295"tvg-logo="http://epg.cdntv.online/img/295.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Animal Planet
+http://cdntv.online/high/y72nkv5zjfdt/295.m3u8
+#EXTINF:-1 tvg-id="1062"tvg-logo="http://epg.cdntv.online/img/1062.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Первый космический HD
+http://cdntv.online/high/y72nkv5zjfdt/1062.m3u8
 #EXTINF:-1 tvg-id="317"tvg-logo="http://epg.cdntv.online/img/317.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju Explore
 http://cdntv.online/high/y72nkv5zjfdt/317.m3u8
 #EXTINF:-1 tvg-id="318"tvg-logo="http://epg.cdntv.online/img/318.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju History
@@ -1027,22 +1033,84 @@ http://cdntv.online/high/y72nkv5zjfdt/318.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/319.m3u8
 #EXTINF:-1 tvg-id="375"tvg-logo="http://epg.cdntv.online/img/375.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Viju+ Planet
 http://cdntv.online/high/y72nkv5zjfdt/375.m3u8
+#EXTINF:-1 tvg-id="265"tvg-logo="http://epg.cdntv.online/img/265.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Авто 24
+http://cdntv.online/high/y72nkv5zjfdt/265.m3u8
+#EXTINF:-1 tvg-id="266"tvg-logo="http://epg.cdntv.online/img/266.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Авто плюс
+http://cdntv.online/high/y72nkv5zjfdt/266.m3u8
+#EXTINF:-1 tvg-id="323"tvg-logo="http://epg.cdntv.online/img/323.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Большая Азия
+http://cdntv.online/high/y72nkv5zjfdt/323.m3u8
 #EXTINF:-1 tvg-id="324"tvg-logo="http://epg.cdntv.online/img/324.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",В мире животных HD
 http://cdntv.online/high/y72nkv5zjfdt/324.m3u8
+#EXTINF:-1 tvg-id="996"tvg-logo="http://epg.cdntv.online/img/996.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Вопросы и ответы
+http://cdntv.online/high/y72nkv5zjfdt/996.m3u8
+#EXTINF:-1 tvg-id="325"tvg-logo="http://epg.cdntv.online/img/325.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Время
+http://cdntv.online/high/y72nkv5zjfdt/325.m3u8
 #EXTINF:-1 tvg-id="448"tvg-logo="http://epg.cdntv.online/img/448.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Глазами туриста
 http://cdntv.online/high/y72nkv5zjfdt/448.m3u8
-#EXTINF:-1 tvg-id="353"tvg-logo="http://epg.cdntv.online/img/353.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Телепутешествия
-http://cdntv.online/high/y72nkv5zjfdt/353.m3u8
+#EXTINF:-1 tvg-id="267"tvg-logo="http://epg.cdntv.online/img/267.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Диалоги о рыбалке
+http://cdntv.online/high/y72nkv5zjfdt/267.m3u8
+#EXTINF:-1 tvg-id="421"tvg-logo="http://epg.cdntv.online/img/421.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикая охота HD
+http://cdntv.online/high/y72nkv5zjfdt/421.m3u8
+#EXTINF:-1 tvg-id="422"tvg-logo="http://epg.cdntv.online/img/422.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикая рыбалка HD
+http://cdntv.online/high/y72nkv5zjfdt/422.m3u8
+#EXTINF:-1 tvg-id="516"tvg-logo="http://epg.cdntv.online/img/516.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикий
+http://cdntv.online/high/y72nkv5zjfdt/516.m3u8
+#EXTINF:-1 tvg-id="327"tvg-logo="http://epg.cdntv.online/img/327.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",ЕГЭ
+http://cdntv.online/high/y72nkv5zjfdt/327.m3u8
+#EXTINF:-1 tvg-id="329"tvg-logo="http://epg.cdntv.online/img/329.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Живая планета
+http://cdntv.online/high/y72nkv5zjfdt/329.m3u8
+#EXTINF:-1 tvg-id="333"tvg-logo="http://epg.cdntv.online/img/333.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Зоо ТВ
+http://cdntv.online/high/y72nkv5zjfdt/333.m3u8
+#EXTINF:-1 tvg-id="334"tvg-logo="http://epg.cdntv.online/img/334.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",История
+http://cdntv.online/high/y72nkv5zjfdt/334.m3u8
+#EXTINF:-1 tvg-id="412"tvg-logo="http://epg.cdntv.online/img/412.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Конный Мир
+http://cdntv.online/high/y72nkv5zjfdt/412.m3u8
+#EXTINF:-1 tvg-id="335"tvg-logo="http://epg.cdntv.online/img/335.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Красная линия
+http://cdntv.online/high/y72nkv5zjfdt/335.m3u8
+#EXTINF:-1 tvg-id="1974"tvg-logo="http://epg.cdntv.online/img/1974.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Кто есть кто
+http://cdntv.online/high/y72nkv5zjfdt/1974.m3u8
+#EXTINF:-1 tvg-id="224"tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Московский образовательный
+http://cdntv.online/high/y72nkv5zjfdt/224.m3u8
+#EXTINF:-1 tvg-id="339"tvg-logo="http://epg.cdntv.online/img/339.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Моя Планета
+http://cdntv.online/high/y72nkv5zjfdt/339.m3u8
+#EXTINF:-1 tvg-id="269"tvg-logo="http://epg.cdntv.online/img/269.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Мужской
+http://cdntv.online/high/y72nkv5zjfdt/269.m3u8
+#EXTINF:-1 tvg-id="343"tvg-logo="http://epg.cdntv.online/img/343.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Наука 2.0
+http://cdntv.online/high/y72nkv5zjfdt/343.m3u8
+#EXTINF:-1 tvg-id="230"tvg-logo="http://epg.cdntv.online/img/230.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Наша Сибирь HD
+http://cdntv.online/high/y72nkv5zjfdt/230.m3u8
+#EXTINF:-1 tvg-id="270"tvg-logo="http://epg.cdntv.online/img/270.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Наша Тема
+http://cdntv.online/high/y72nkv5zjfdt/270.m3u8
+#EXTINF:-1 tvg-id="1679"tvg-logo="http://epg.cdntv.online/img/1679.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Новый Мир
+http://cdntv.online/high/y72nkv5zjfdt/1679.m3u8
+#EXTINF:-1 tvg-id="954"tvg-logo="http://epg.cdntv.online/img/954.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Океан HD
+http://cdntv.online/high/y72nkv5zjfdt/954.m3u8
+#EXTINF:-1 tvg-id="271"tvg-logo="http://epg.cdntv.online/img/271.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Оружие
+http://cdntv.online/high/y72nkv5zjfdt/271.m3u8
+#EXTINF:-1 tvg-id="272"tvg-logo="http://epg.cdntv.online/img/272.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Охота и Рыбалка
+http://cdntv.online/high/y72nkv5zjfdt/272.m3u8
+#EXTINF:-1 tvg-id="273"tvg-logo="http://epg.cdntv.online/img/273.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Охотник и рыболов
+http://cdntv.online/high/y72nkv5zjfdt/273.m3u8
+#EXTINF:-1 tvg-id="455"tvg-logo="http://epg.cdntv.online/img/455.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Пёс и Ко
+http://cdntv.online/high/y72nkv5zjfdt/455.m3u8
 #EXTINF:-1 tvg-id="347"tvg-logo="http://epg.cdntv.online/img/347.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Приключения HD
 http://cdntv.online/high/y72nkv5zjfdt/347.m3u8
+#EXTINF:-1 tvg-id="349"tvg-logo="http://epg.cdntv.online/img/349.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Психология 21
+http://cdntv.online/high/y72nkv5zjfdt/349.m3u8
+#EXTINF:-1 tvg-id="353"tvg-logo="http://epg.cdntv.online/img/353.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Телепутешествия
+http://cdntv.online/high/y72nkv5zjfdt/353.m3u8
+#EXTINF:-1 tvg-id="354"tvg-logo="http://epg.cdntv.online/img/354.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Техно 24
+http://cdntv.online/high/y72nkv5zjfdt/354.m3u8
+#EXTINF:-1 tvg-id="305"tvg-logo="http://epg.cdntv.online/img/305.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ТОЧКА.РФ
+http://cdntv.online/high/y72nkv5zjfdt/305.m3u8
 #EXTINF:-1 tvg-id="294"tvg-logo="http://epg.cdntv.online/img/294.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",365 Дней
 http://cdntv.online/high/y72nkv5zjfdt/294.m3u8
 #EXTINF:-1 tvg-id="1457"tvg-logo="http://epg.cdntv.online/img/1457.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",BeritaSatu World [IDN]
 http://cdntv.online/high/y72nkv5zjfdt/1457.m3u8
-#EXTINF:-1 tvg-id="1271"tvg-logo="http://epg.cdntv.online/img/1271.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",CineMan Катастрофы
-http://cdntv.online/high/y72nkv5zjfdt/1271.m3u8
 #EXTINF:-1 tvg-id="1681"tvg-logo="http://epg.cdntv.online/img/1681.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",CineMan Air Crash
 http://cdntv.online/high/y72nkv5zjfdt/1681.m3u8
+#EXTINF:-1 tvg-id="1271"tvg-logo="http://epg.cdntv.online/img/1271.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",CineMan Катастрофы
+http://cdntv.online/high/y72nkv5zjfdt/1271.m3u8
 #EXTINF:-1 tvg-id="cineman-aircrash"tvg-logo="http://epg.cdntv.online/img/1681.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",CineMan расследование авиакатастроф
 http://cdntv.online/high/y72nkv5zjfdt/2298.m3u8
 #EXTINF:-1 tvg-id="1657"tvg-logo="http://epg.cdntv.online/img/1642.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Clarity4K Avto Blog
@@ -1113,68 +1181,6 @@ http://cdntv.online/high/y72nkv5zjfdt/1390.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/1416.m3u8
 #EXTINF:-1 tvg-id="1397"tvg-logo="http://epg.cdntv.online/img/1397.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Z!Travel HD
 http://cdntv.online/high/y72nkv5zjfdt/1397.m3u8
-#EXTINF:-1 tvg-id="265"tvg-logo="http://epg.cdntv.online/img/265.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Авто 24
-http://cdntv.online/high/y72nkv5zjfdt/265.m3u8
-#EXTINF:-1 tvg-id="266"tvg-logo="http://epg.cdntv.online/img/266.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Авто плюс
-http://cdntv.online/high/y72nkv5zjfdt/266.m3u8
-#EXTINF:-1 tvg-id="323"tvg-logo="http://epg.cdntv.online/img/323.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Большая Азия
-http://cdntv.online/high/y72nkv5zjfdt/323.m3u8
-#EXTINF:-1 tvg-id="996"tvg-logo="http://epg.cdntv.online/img/996.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Вопросы и ответы
-http://cdntv.online/high/y72nkv5zjfdt/996.m3u8
-#EXTINF:-1 tvg-id="325"tvg-logo="http://epg.cdntv.online/img/325.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Время
-http://cdntv.online/high/y72nkv5zjfdt/325.m3u8
-#EXTINF:-1 tvg-id="267"tvg-logo="http://epg.cdntv.online/img/267.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Диалоги о рыбалке
-http://cdntv.online/high/y72nkv5zjfdt/267.m3u8
-#EXTINF:-1 tvg-id="421"tvg-logo="http://epg.cdntv.online/img/421.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикая охота HD
-http://cdntv.online/high/y72nkv5zjfdt/421.m3u8
-#EXTINF:-1 tvg-id="422"tvg-logo="http://epg.cdntv.online/img/422.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикая рыбалка HD
-http://cdntv.online/high/y72nkv5zjfdt/422.m3u8
-#EXTINF:-1 tvg-id="516"tvg-logo="http://epg.cdntv.online/img/516.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Дикий
-http://cdntv.online/high/y72nkv5zjfdt/516.m3u8
-#EXTINF:-1 tvg-id="327"tvg-logo="http://epg.cdntv.online/img/327.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",ЕГЭ
-http://cdntv.online/high/y72nkv5zjfdt/327.m3u8
-#EXTINF:-1 tvg-id="333"tvg-logo="http://epg.cdntv.online/img/333.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Зоо ТВ
-http://cdntv.online/high/y72nkv5zjfdt/333.m3u8
-#EXTINF:-1 tvg-id="334"tvg-logo="http://epg.cdntv.online/img/334.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",История
-http://cdntv.online/high/y72nkv5zjfdt/334.m3u8
-#EXTINF:-1 tvg-id="412"tvg-logo="http://epg.cdntv.online/img/412.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Конный Мир
-http://cdntv.online/high/y72nkv5zjfdt/412.m3u8
-#EXTINF:-1 tvg-id="335"tvg-logo="http://epg.cdntv.online/img/335.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Красная линия
-http://cdntv.online/high/y72nkv5zjfdt/335.m3u8
-#EXTINF:-1 tvg-id="1974"tvg-logo="http://epg.cdntv.online/img/1974.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Кто есть кто
-http://cdntv.online/high/y72nkv5zjfdt/1974.m3u8
-#EXTINF:-1 tvg-id="224"tvg-logo="http://epg.cdntv.online/img/224.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Московский образовательный
-http://cdntv.online/high/y72nkv5zjfdt/224.m3u8
-#EXTINF:-1 tvg-id="339"tvg-logo="http://epg.cdntv.online/img/339.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Моя Планета
-http://cdntv.online/high/y72nkv5zjfdt/339.m3u8
-#EXTINF:-1 tvg-id="269"tvg-logo="http://epg.cdntv.online/img/269.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Мужской
-http://cdntv.online/high/y72nkv5zjfdt/269.m3u8
-#EXTINF:-1 tvg-id="343"tvg-logo="http://epg.cdntv.online/img/343.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Наука 2.0
-http://cdntv.online/high/y72nkv5zjfdt/343.m3u8
-#EXTINF:-1 tvg-id="230"tvg-logo="http://epg.cdntv.online/img/230.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Наша Сибирь HD
-http://cdntv.online/high/y72nkv5zjfdt/230.m3u8
-#EXTINF:-1 tvg-id="270"tvg-logo="http://epg.cdntv.online/img/270.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Наша Тема
-http://cdntv.online/high/y72nkv5zjfdt/270.m3u8
-#EXTINF:-1 tvg-id="1679"tvg-logo="http://epg.cdntv.online/img/1679.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Новый Мир
-http://cdntv.online/high/y72nkv5zjfdt/1679.m3u8
-#EXTINF:-1 tvg-id="954"tvg-logo="http://epg.cdntv.online/img/954.png"group-title="₀₅ 🔬 Наука & Мир"catchup=""catchup-days="",Океан HD
-http://cdntv.online/high/y72nkv5zjfdt/954.m3u8
-#EXTINF:-1 tvg-id="271"tvg-logo="http://epg.cdntv.online/img/271.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Оружие
-http://cdntv.online/high/y72nkv5zjfdt/271.m3u8
-#EXTINF:-1 tvg-id="272"tvg-logo="http://epg.cdntv.online/img/272.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Охота и Рыбалка
-http://cdntv.online/high/y72nkv5zjfdt/272.m3u8
-#EXTINF:-1 tvg-id="273"tvg-logo="http://epg.cdntv.online/img/273.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Охотник и рыболов
-http://cdntv.online/high/y72nkv5zjfdt/273.m3u8
-#EXTINF:-1 tvg-id="1062"tvg-logo="http://epg.cdntv.online/img/1062.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Первый космический HD
-http://cdntv.online/high/y72nkv5zjfdt/1062.m3u8
-#EXTINF:-1 tvg-id="455"tvg-logo="http://epg.cdntv.online/img/455.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Пёс и Ко
-http://cdntv.online/high/y72nkv5zjfdt/455.m3u8
-#EXTINF:-1 tvg-id="349"tvg-logo="http://epg.cdntv.online/img/349.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Психология 21
-http://cdntv.online/high/y72nkv5zjfdt/349.m3u8
-#EXTINF:-1 tvg-id="354"tvg-logo="http://epg.cdntv.online/img/354.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",Техно 24
-http://cdntv.online/high/y72nkv5zjfdt/354.m3u8
-#EXTINF:-1 tvg-id="305"tvg-logo="http://epg.cdntv.online/img/305.png"group-title="₀₅ 🔬 Наука & Мир"catchup="shift"catchup-days="3",ТОЧКА.РФ
-http://cdntv.online/high/y72nkv5zjfdt/305.m3u8
 #EXTINF:-1 tvg-id="345"tvg-logo="http://epg.cdntv.online/img/345.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Первый вегетарианский HD
 http://cdntv.online/high/y72nkv5zjfdt/345.m3u8
 #EXTINF:-1 tvg-id="451"tvg-logo="http://epg.cdntv.online/img/451.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Здоровое ТВ
@@ -1201,6 +1207,8 @@ http://cdntv.online/high/y72nkv5zjfdt/145.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/1555.m3u8
 #EXTINF:-1 tvg-id="141"tvg-logo="http://epg.cdntv.online/img/141.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Cartoon Network
 http://cdntv.online/high/y72nkv5zjfdt/141.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="minimax-tom-and-jerry"tvg-logo="http://livetv24.org/images/5129.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",MM Tom And Jerry HD
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1 tvg-id="485"tvg-logo="http://epg.cdntv.online/img/485.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Уникум
@@ -1209,6 +1217,8 @@ http://cdntv.online/high/y72nkv5zjfdt/485.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/2189.m3u8
 #EXTINF:-1 tvg-id="162"tvg-logo="http://epg.cdntv.online/img/162.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",СТС Kids
 http://cdntv.online/high/y72nkv5zjfdt/162.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="143"tvg-logo="http://epg.cdntv.online/img/143.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Солнце
 http://cdntv.online/high/y72nkv5zjfdt/143.m3u8
 #EXTINF:-1 tvg-id="165"tvg-logo="http://epg.cdntv.online/img/165.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Советские мультфильмы
@@ -1217,6 +1227,8 @@ http://cdntv.online/high/y72nkv5zjfdt/165.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/164.m3u8
 #EXTINF:-1 tvg-id="163"tvg-logo="http://epg.cdntv.online/img/163.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Сказки зайки
 http://cdntv.online/high/y72nkv5zjfdt/163.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="1267"tvg-logo="http://epg.cdntv.online/img/1267.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Сериал "Симпсоны"
 http://cdntv.online/high/y72nkv5zjfdt/1267.m3u8
 #EXTINF:-1 tvg-id="2012"tvg-logo="http://epg.cdntv.online/img/2012.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY Симпсоны
@@ -1225,6 +1237,8 @@ http://cdntv.online/high/y72nkv5zjfdt/2012.m3u8
 http://cdntv.online/high/y72nkv5zjfdt/2014.m3u8
 #EXTINF:-1 tvg-id="2043"tvg-logo="http://epg.cdntv.online/img/2043.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",LIBERTY PLANKTON
 http://cdntv.online/high/y72nkv5zjfdt/2043.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
+http://1.m3u8
 #EXTINF:-1 tvg-id="161"tvg-logo="http://epg.cdntv.online/img/161.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Рыжий
 http://cdntv.online/high/y72nkv5zjfdt/161.m3u8
 #EXTINF:-1 tvg-id="tvplay-eralash"tvg-logo="http://livetv24.org/images/4775.png"group-title="₀₇ 🧸 Детские"catchup=""catchup-days="",Ералаш
