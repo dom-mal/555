@@ -5260,9 +5260,9 @@ http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2463.png"group-title="🎉 Развлечение",Загородный International
 https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=Vbd7gL0LxCajlXu0ZR9xFQ&e=2068851230&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/3968.png"group-title="🎉 Развлечение",TLC
-http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/232/index.m3u8
+http://46.32.176.50/tlc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/3667.png"group-title="🎉 Развлечение",HGTV
-http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/1084/index.m3u8
+http://46.32.176.50/tlc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/jedtE5l.png"group-title="🎉 Развлечение",Здоровое ТВ
 http://188.225.31.197/bpk-tv/000000057/tve/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.one/img/16.png"group-title="🎉 Развлечение",Доктор
