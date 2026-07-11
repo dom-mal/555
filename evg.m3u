@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz; https://iptvx.one/EPG; https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-id="sankt-peterburg"tvg-logo="http://epg.cdntv.online/img/225.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",Санкт-Петербург
 http://cdntv.online/high/vk6hjm4f8rs3/225.m3u8
 #EXTINF:-1 tvg-id="lot-47"tvg-logo="https://epg.iptvx.one/picons/lot-47.png"group-title="₀₁ 🇷🇺 Эфирное ТВ"catchup=""catchup-days="",ЛенТВ 24
@@ -819,14 +819,6 @@ http://cdntv.online/high/vk6hjm4f8rs3/2067.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/1098.m3u8
 #EXTINF:-1 tvg-id="434"tvg-logo="http://epg.cdntv.online/img/434.png"group-title="₀₂ 📺 Киноканалы"catchup="shift"catchup-days="3",Ultra HD Cinema
 http://cdntv.online/high/vk6hjm4f8rs3/434.m3u8
-#EXTINF:-1 tvg-id="1347"tvg-logo="http://epg.cdntv.online/img/1347.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Comedy
-http://cdntv.online/high/vk6hjm4f8rs3/1347.m3u8
-#EXTINF:-1 tvg-id="1349"tvg-logo="http://epg.cdntv.online/img/1349.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Fantastic
-http://cdntv.online/high/vk6hjm4f8rs3/1349.m3u8
-#EXTINF:-1 tvg-id="1350"tvg-logo="http://epg.cdntv.online/img/1350.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Holiday
-http://cdntv.online/high/vk6hjm4f8rs3/1350.m3u8
-#EXTINF:-1 tvg-id="1351"tvg-logo="http://epg.cdntv.online/img/1351.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Horror
-http://cdntv.online/high/vk6hjm4f8rs3/1351.m3u8
 #EXTINF:-1 tvg-id="1380"tvg-logo="http://epg.cdntv.online/img/1380.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Z!Action HD
 http://cdntv.online/high/vk6hjm4f8rs3/1380.m3u8
 #EXTINF:-1 tvg-id="1381"tvg-logo="http://epg.cdntv.online/img/1381.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Z!Adventure HD
@@ -929,6 +921,14 @@ http://cdntv.online/high/vk6hjm4f8rs3/2251.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/2252.m3u8
 #EXTINF:-1 tvg-id="2230"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/kinozal.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",Play-x Кинозал 23 HD
 http://cdntv.online/high/vk6hjm4f8rs3/2230.m3u8
+#EXTINF:-1 tvg-id="1347"tvg-logo="http://epg.cdntv.online/img/1347.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Comedy
+http://cdntv.online/high/vk6hjm4f8rs3/1347.m3u8
+#EXTINF:-1 tvg-id="1349"tvg-logo="http://epg.cdntv.online/img/1349.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Fantastic
+http://cdntv.online/high/vk6hjm4f8rs3/1349.m3u8
+#EXTINF:-1 tvg-id="1350"tvg-logo="http://epg.cdntv.online/img/1350.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Holiday
+http://cdntv.online/high/vk6hjm4f8rs3/1350.m3u8
+#EXTINF:-1 tvg-id="1351"tvg-logo="http://epg.cdntv.online/img/1351.png"group-title="₀₂ 📺 Киноканалы"catchup=""catchup-days="",VL Horror
+http://cdntv.online/high/vk6hjm4f8rs3/1351.m3u8
 #EXTINF:-1 tvg-id="spas"tvg-logo="http://epg.cdntv.online/img/12.png"group-title="₀₃ ⛪ Религия"catchup="shift"catchup-days="3",Спас
 http://cdntv.online/high/vk6hjm4f8rs3/12.m3u8
 #EXTINF:-1 tvg-id="soyuz"tvg-logo="http://epg.cdntv.online/img/966.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Союз
@@ -939,9 +939,9 @@ http://cdntv.online/high/vk6hjm4f8rs3/959.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/969.m3u8
 #EXTINF:-1 tvg-id="nadezhda"tvg-logo="https://cdn.epg.one/img/1732.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/34RINpb.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Царьград
+#EXTINF:-1 tvg-id="tsargrad_tv"tvg-logo="https://i.imgur.com/34RINpb.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
-#EXTINF:-1 tvg-id=""tvg-logo="https://tbv-tv.ru/wp-content/uploads/2025/05/logo_short.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Благая весть
+#EXTINF:-1 tvg-id="tbv_tv"tvg-logo="https://tbv-tv.ru/wp-content/uploads/2025/05/logo_short.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",Благая весть
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=No28vGsCdN_muaj1BNLKGw&e=2069714069&scheme=https
 #EXTINF:-1 tvg-id="Vera24.ru@SD"tvg-logo="https://i.imgur.com/Qer5Lnh.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",ВЕРА 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
@@ -979,14 +979,12 @@ http://1.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/1332.m3u8
 #EXTINF:-1 tvg-id="1579"tvg-logo="http://epg.cdntv.online/img/1579.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Ювелирочка
 http://cdntv.online/high/vk6hjm4f8rs3/1579.m3u8
-#EXTINF:-1 tvg-id="1671"tvg-logo="http://epg.cdntv.online/img/1671.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Just TV
-http://cdntv.online/high/vk6hjm4f8rs3/1671.m3u8
+#EXTINF:-1 tvg-id="1629"tvg-logo="http://epg.cdntv.online/img/1629.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",CineMan Relax 4K
+http://cdntv.online/high/vk6hjm4f8rs3/1629.m3u8
 #EXTINF:-1 tvg-id="2021"tvg-logo="http://epg.cdntv.online/img/2021.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup="shift"catchup-days="3",LIBERTY Шоу
 http://cdntv.online/high/vk6hjm4f8rs3/2021.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title=""catchup=""catchup-days="",
 http://1.m3u8
-#EXTINF:-1 tvg-id="1629"tvg-logo="http://epg.cdntv.online/img/1629.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",CineMan Relax 4K
-http://cdntv.online/high/vk6hjm4f8rs3/1629.m3u8
 #EXTINF:-1 tvg-id="2220"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/play-x.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x 6 кадров HD
 http://cdntv.online/high/vk6hjm4f8rs3/2220.m3u8
 #EXTINF:-1 tvg-id="2217"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/play-x.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x География уральских пельменей HD
@@ -1001,6 +999,8 @@ http://cdntv.online/high/vk6hjm4f8rs3/2219.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/2223.m3u8
 #EXTINF:-1 tvg-id="2226"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/play-x.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Play-x Уральские пельмени HD
 http://cdntv.online/high/vk6hjm4f8rs3/2226.m3u8
+#EXTINF:-1 tvg-id="1671"tvg-logo="http://epg.cdntv.online/img/1671.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Just TV
+http://cdntv.online/high/vk6hjm4f8rs3/1671.m3u8
 #EXTINF:-1 tvg-id="847"tvg-logo="http://epg.cdntv.online/img/847.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Камин HD
 http://cdntv.online/high/vk6hjm4f8rs3/847.m3u8
 #EXTINF:-1 tvg-id="846"tvg-logo="http://epg.cdntv.online/img/846.png"group-title="₀₄ 🎉 Шоу & Юмор"catchup=""catchup-days="",Аквариум HD
@@ -1187,10 +1187,10 @@ http://cdntv.online/high/vk6hjm4f8rs3/331.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/1683.m3u8
 #EXTINF:-1 tvg-id="336"tvg-logo="http://epg.cdntv.online/img/336.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Кухня ТВ
 http://cdntv.online/high/vk6hjm4f8rs3/336.m3u8
-#EXTINF:-1 tvg-id="427"tvg-logo="http://epg.cdntv.online/img/427.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Food Network HD
-http://cdntv.online/high/vk6hjm4f8rs3/427.m3u8
 #EXTINF:-1 tvg-id="517"tvg-logo="http://epg.cdntv.online/img/517.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Food Network
 http://cdntv.online/high/vk6hjm4f8rs3/517.m3u8
+#EXTINF:-1 tvg-id="427"tvg-logo="http://epg.cdntv.online/img/427.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Food Network HD
+http://cdntv.online/high/vk6hjm4f8rs3/427.m3u8
 #EXTINF:-1 tvg-id="518"tvg-logo="http://epg.cdntv.online/img/518.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",Еда
 http://cdntv.online/high/vk6hjm4f8rs3/518.m3u8
 #EXTINF:-1 tvg-id="519"tvg-logo="http://epg.cdntv.online/img/519.png"group-title="₀₆ 🥑 ЗОЖ & Еда"catchup="shift"catchup-days="3",FoodTime
@@ -1545,38 +1545,38 @@ http://cdntv.online/high/vk6hjm4f8rs3/78.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/955.m3u8
 #EXTINF:-1 tvg-id="1399"tvg-logo="http://epg.cdntv.online/img/1399.png"group-title="₀₉ 🎵 Музыка"catchup=""catchup-days="",Z!Musiс HD
 http://cdntv.online/high/vk6hjm4f8rs3/1399.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-hit-fm.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Хит FM
-http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-russkoe-radio.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Русское радио
 http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-vania.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Ваня
+http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио 7 на семи холмах
+http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Дорожное Радио
+http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
+#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-mir.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Мир
+http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
+#EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Europa Plus
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-hit-fm.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Хит FM
+http://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tvg-id=""tvg-logo="http://radio.pervii.com/im/3/1537442683.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Русские песни
 http://listen.rusongs.ru/ru-mp3-128
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-retro-fm.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Ретро FM
 http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-mir.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Мир
-http://icecast-mirtv.cdnvideo.ru:8000/radio_mir_256
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/logo-radio-mayak.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Маяк
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-vania.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио Ваня
-http://icecast-radiovanya.cdnvideo.ru:8000/radiovanya
 #EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-dfm.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио DFM
 http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/radio-na7xolmax.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Радио 7 на семи холмах
-http://emgregion.hostingradio.ru:8064/moscow.radio7.mp3
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-radio.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Наше радио
 http://nashe1.hostingradio.ru:80/nashe-256
-#EXTINF:-1 tvg-id=""tvg-logo="https://iptvx.one/picons/dorozhnoe-radio.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Дорожное Радио
-http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 tvg-id=""tvg-logo="http://radio.pervii.com/logo/1403628116.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Детское радио
-http://staroeradio.ru:8000/detskoe128
 #EXTINF:-1 tvg-id=""tvg-logo="http://radio.pervii.com/im/5/1551605155.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Говорит Москва
 http://video.govoritmoskva.ru:8000/rufm_m.mp3
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/ZBHqSZj.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Вести FM
 http://icecast.vgtrk.cdnvideo.ru/vestifm
 #EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-radio-maximum.jpg"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Maximum
 http://maximum.hostingradio.ru/maximum96.aacp
-#EXTINF:-1 tvg-id=""tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-europa-plus.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Europa Plus
-http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-id=""tvg-logo="http://radio.pervii.com/logo/1403628116.png"group-title="₁₀ 📻 Радио"catchup=""catchup-days="",Детское радио
+http://staroeradio.ru:8000/detskoe128
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.cdntv.online/tvg-logo/vk6hjm4f8rs3/Im_Westen_nichts_Neues.jpg"group-title="₁₁ 🎬 Фильмотека"catchup=""catchup-days="",На Западном фронте без перемен (2022)
 https://m.cdntv.online/f/vk6hjm4f8rs3/Im_Westen_nichts_Neues_2022.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://m.cdntv.online/tvg-logo/vk6hjm4f8rs3/Pride_and_Prejudice.jpg"group-title="₁₁ 🎬 Фильмотека"catchup=""catchup-days="",Гордость и предубеждение (2005)
@@ -17319,9 +17319,9 @@ http://cdntv.online/high/vk6hjm4f8rs3/1003.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/1004.m3u8
 #EXTINF:-1 tvg-id="channel-13-il"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Reshet 13
 http://cdntv.online/high/vk6hjm4f8rs3/1005.m3u8
-#EXTINF:-1 tvg-id="10 עשר"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",14 Channel
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",14 Channel
 http://cdntv.online/high/vk6hjm4f8rs3/782.m3u8
-#EXTINF:-1 tvg-id="Yeshua Chai TV"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Yeshua Chai TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Yeshua Chai TV
 http://cdntv.online/high/vk6hjm4f8rs3/943.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/ISR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",ערוץ הידברות
 http://cdntv.online/high/vk6hjm4f8rs3/784.m3u8
@@ -17333,10 +17333,8 @@ http://cdntv.online/high/vk6hjm4f8rs3/685.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/936.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",КТК
 http://cdntv.online/high/vk6hjm4f8rs3/1146.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",7 канал
+#EXTINF:-1 tvg-id="7kanal-kz"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",7 канал
 http://cdntv.online/high/vk6hjm4f8rs3/937.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Ел Арна
-http://cdntv.online/high/vk6hjm4f8rs3/941.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Balapan
 http://cdntv.online/high/vk6hjm4f8rs3/1329.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Atameken Business Channel
@@ -17347,12 +17345,14 @@ http://cdntv.online/high/vk6hjm4f8rs3/940.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/232.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",QAZSPORT HD
 http://cdntv.online/high/vk6hjm4f8rs3/1143.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TDK 42
-http://cdntv.online/high/vk6hjm4f8rs3/1148.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Qazaqstan
 http://cdntv.online/high/vk6hjm4f8rs3/1251.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Setanta Qazaqstan HD
 http://cdntv.online/high/vk6hjm4f8rs3/1187.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",Ел Арна
+http://cdntv.online/high/vk6hjm4f8rs3/941.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/KAZ.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup=""catchup-days="",TDK 42
+http://cdntv.online/high/vk6hjm4f8rs3/1148.m3u8
 #EXTINF:-1 tvg-id="Беларусь"tvg-logo=""group-title=""catchup=""catchup-days="",
 http://5.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/flags/BLR.png"group-title="₁₂ 🛰️ Мировое ᵀⱽ⁺"catchup="shift"catchup-days="3",Беларусь 24
