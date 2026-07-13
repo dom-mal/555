@@ -913,7 +913,7 @@ https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=No28vGsCdN_muaj1BNLKGw&e=2069714069&scheme=https
 #EXTINF:-1 tvg-id="Vera24.ru@SD"tvg-logo="https://i.imgur.com/Qer5Lnh.png"group-title="₀₃ ⛪ Религия"catchup=""catchup-days="",ВЕРА 24
 https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo="http://epg.cdntv.online/img/169.png"group-title="₀₄ 🎉 Шоу+Юмор"catchup="shift"catchup-days="3",TLC
+#EXTINF:-1 tvg-id="169"tvg-logo="http://epg.cdntv.online/img/169.png"group-title="₀₄ 🎉 Шоу+Юмор"catchup="shift"catchup-days="3",TLC
 http://cdntv.online/high/t4epch7fvi/169.m3u8
 #EXTINF:-1 tvg-id="1033"tvg-logo="http://epg.cdntv.online/img/1033.png"group-title="₀₄ 🎉 Шоу+Юмор"catchup="shift"catchup-days="3",HGTV HD
 http://cdntv.online/high/t4epch7fvi/1033.m3u8
@@ -1137,22 +1137,24 @@ http://cdntv.online/high/t4epch7fvi/1390.m3u8
 http://cdntv.online/high/t4epch7fvi/1416.m3u8
 #EXTINF:-1 tvg-id="1397"tvg-logo="http://epg.cdntv.online/img/1397.png"group-title="₀₅ 🔬 Наука+Мир"catchup=""catchup-days="",Z!Travel HD
 http://cdntv.online/high/t4epch7fvi/1397.m3u8
-#EXTINF:-1 tvg-id="345"tvg-logo="http://epg.cdntv.online/img/345.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Первый вегетарианский HD
-http://cdntv.online/high/t4epch7fvi/345.m3u8
+#EXTINF:-1 tvg-id="doktor"tvg-logo="http://epg.one/img/16.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup=""catchup-days="",Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
 #EXTINF:-1 tvg-id="451"tvg-logo="http://epg.cdntv.online/img/451.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Здоровое ТВ
 http://cdntv.online/high/t4epch7fvi/451.m3u8
-#EXTINF:-1 tvg-id="331"tvg-logo="http://epg.cdntv.online/img/331.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Загородная жизнь
-http://cdntv.online/high/t4epch7fvi/331.m3u8
 #EXTINF:-1 tvg-id="1683"tvg-logo="http://epg.cdntv.online/img/1683.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup=""catchup-days="",Живи Активно
 http://cdntv.online/high/t4epch7fvi/1683.m3u8
+#EXTINF:-1 tvg-id="331"tvg-logo="http://epg.cdntv.online/img/331.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Загородная жизнь
+http://cdntv.online/high/t4epch7fvi/331.m3u8
+#EXTINF:-1 tvg-id="518"tvg-logo="http://epg.cdntv.online/img/518.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Еда
+http://cdntv.online/high/t4epch7fvi/518.m3u8
 #EXTINF:-1 tvg-id="336"tvg-logo="http://epg.cdntv.online/img/336.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Кухня ТВ
 http://cdntv.online/high/t4epch7fvi/336.m3u8
+#EXTINF:-1 tvg-id="345"tvg-logo="http://epg.cdntv.online/img/345.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Первый вегетарианский HD
+http://cdntv.online/high/t4epch7fvi/345.m3u8
 #EXTINF:-1 tvg-id="517"tvg-logo="http://epg.cdntv.online/img/517.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Food Network
 http://cdntv.online/high/t4epch7fvi/517.m3u8
 #EXTINF:-1 tvg-id="427"tvg-logo="http://epg.cdntv.online/img/427.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Food Network HD
 http://cdntv.online/high/t4epch7fvi/427.m3u8
-#EXTINF:-1 tvg-id="518"tvg-logo="http://epg.cdntv.online/img/518.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",Еда
-http://cdntv.online/high/t4epch7fvi/518.m3u8
 #EXTINF:-1 tvg-id="519"tvg-logo="http://epg.cdntv.online/img/519.png"group-title="₀₆ 🥑 ЗОЖ+Еда"catchup="shift"catchup-days="3",FoodTime
 http://cdntv.online/high/t4epch7fvi/519.m3u8
 #EXTINF:-1 tvg-id="nickelodeon-ru"tvg-logo="http://epg.cdntv.online/img/146.png"group-title="₀₇ 🧸 Детские"catchup="shift"catchup-days="3",Nickelodeon
@@ -18277,7 +18279,7 @@ http://cdntv.online/high/t4epch7fvi/280.m3u8
 http://cdntv.online/high/t4epch7fvi/1528.m3u8
 #EXTINF:-1 tvg-id="2273"tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/SkyHigh.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup=""catchup-days="",Sky High Red S FHD
 http://cdntv.online/high/t4epch7fvi/2273.m3u8
-#EXTINF:-1 tvg-id="tlc"tvg-logo="http://epg.cdntv.online/img/170.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",TLC HD
+#EXTINF:-1 tvg-id="170"tvg-logo="http://epg.cdntv.online/img/170.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",TLC HD
 http://cdntv.online/high/t4epch7fvi/170.m3u8
 #EXTINF:-1 tvg-id="316"tvg-logo="http://epg.cdntv.online/img/316.png"group-title="₁₃ 🌟 Каналы ᴴᴰ"catchup="shift"catchup-days="3",Travel+Adventure HD
 http://cdntv.online/high/t4epch7fvi/316.m3u8
