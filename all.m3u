@@ -151,22 +151,38 @@ http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
 http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/2294.png"group-title="₀₁ 🇷🇺 Россия",БелРос
 https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=9eI-LAjNvDK0qNS6gtHa4g&e=2068851243&scheme=https
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₂ 🇰🇿 Казахстан",КТК
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://24.kz/assets/images/footer-logo.png"group-title="₀₂ 🇰🇿 Казахстан",Казахстан 24
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/2576.png"group-title="₀₂ 🇰🇿 Казахстан",Хабар
+http://120.70.60.179:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/2570.png"group-title="₀₂ 🇰🇿 Казахстан",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/2578.png"group-title="₀₂ 🇰🇿 Казахстан",24KZ
 https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="₀₂ 🇰🇿 Казахстан",Tv Brics
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Murt4NK.png"group-title="₀₂ 🇰🇿 Казахстан",МИР Qazaqstan
+http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Nw2R7Dq.png"group-title="₀₂ 🇰🇿 Казахстан",ABAI TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://vote.rtrk.kz/img/balapan-logo.png"group-title="₀₂ 🇰🇿 Казахстан",Balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/7091.png"group-title="₀₂ 🇰🇿 Казахстан",Jibek Joly
+http://smarty.oktv.kz/tvmiddleware/api/channel/url/?cid=159&device=android_stb&client_id=1&authkey=fceb15e8f73be3fd883c2ec490e8d0d69d989dd0b5a284e5c107902b9d2960465923bc93581ef74040c44e3a93d108388f1b8b9d6b89e2f39ea29efee8b72897&timezone=0
+#EXTINF:-1 tvg-id=""tvg-logo="https://mtrk.kz/wp-content/themes/mtrk/images/logo2022.png"group-title="₀₂ 🇰🇿 Казахстан",МТРК Петропавловск
+https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/nHVABXh.png"group-title="₀₂ 🇰🇿 Казахстан",MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://novoetv.kz/wp-content/uploads/2023/03/logo_novoetv_white.png"group-title="₀₂ 🇰🇿 Казахстан",Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt="group-title="₀₂ 🇰🇿 Казахстан",Qazaqstan International
+https://qazaqstantv-stream.qazcdn.com/international/international/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/2630.png"group-title="₀₂ 🇰🇿 Казахстан",Setanta Qazaqstan HD
+http://tinyurl.com/TvZaTak31/icHYPTiCAG/cnb0y9n3633wb3wnppri4wg6
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/9033.png"group-title="₀₂ 🇰🇿 Казахстан",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png"group-title="₀₂ 🇰🇿 Казахстан",Silk Way Cinema
 https://stream.qazcdn.net/ex6r514/silkwaycinema/tracks-v3a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/2630.png"group-title="₀₂ 🇰🇿 Казахстан",Setanta Qazaqstan HD
-http://tinyurl.com/TvZaTak31/icHYPTiCAG/cnb0y9n3633wb3wnppri4wg6
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Murt4NK.png"group-title="₀₂ 🇰🇿 Казахстан",МИР Qazaqstan
-http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg"group-title="₀₂ 🇰🇿 Казахстан",Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://rikatv.kz/otdel_prodazh/rika.png"group-title="₀₂ 🇰🇿 Казахстан",Рика ТВ
+http://live-rikatv.cdnvideo.ru/rikatv/rikatv_tcode.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/323.png"group-title="₀₃ 🐱 Детские",2x2
 https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=8-jBGabkfgxTFP1haKcArQ&e=2068851227&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/618.png"group-title="₀₃ 🐱 Детские",Мама
@@ -325,12 +341,8 @@ https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/1732.png"group-title="₀₆ ⛪ Религия",Надежда
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2469.png"group-title="₀₆ ⛪ Религия",Три Ангела
-https://hls.tv.3angels.ru/stream.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/34RINpb.png"group-title="₀₆ ⛪ Религия",Царьград
 https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=UQvVhXcvnPn0tDMqg2zDYg&e=2068506958&scheme=https
-#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/qKLEGU7.png"group-title="₀₆ ⛪ Религия",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://gigavider.ru/upload/iblock/a18/x9s7whiehqhp9na1gpafrjsyhboex5tm.png"group-title="₀₆ ⛪ Религия",ТБВ
 https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=No28vGsCdN_muaj1BNLKGw&e=2069714069&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/fACHqmY.png"group-title="₀₆ ⛪ Религия",ТВ МАНА ВАШ
@@ -18263,153 +18275,55 @@ http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://static.rustore.ru/imgproxy/PRt91hTUo8TZwfAROdo01SKKGAkxvXWLAHLtffHuTNY/preset:vk_og_img/plain/https://static.rustore.ru/apk/2063625327/content/ICON/d974c8fd-9400-4a0d-82f1-51361d75011b.jpeg@webp"group-title="₁₃ 🛰️ Мировое ᵀⱽ⁺",福州电视台少儿频道 (FZTV-少儿) (1080p)
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Русская ночь
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Anal
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Barely Legal TV
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Big Ass
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Big Dick
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Big Tits
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Club Anal
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Club BBW
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Club Parody
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Club Sweetie Fox
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Club Teens HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Cuckold HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe 4K UHD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe 60FPS
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Anal
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Asian
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe BabySitter
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe BBW
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe BDSM
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Big Cock
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Blondes
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Blowjob
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Brunette
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe CheerLeader
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Cinema
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Cosplay
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Creampie
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Cuckold
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Ebony
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Fake Taxi
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Fisting
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Foot Fetish
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe GangBang
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Gays
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Gloryhole
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Henati
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Japanese
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Lesbians
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Massage
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Milf
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Orgy
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Parody
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe POV
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Pregnant
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Public Agent
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe RedHeads
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Russian Teens
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Schoolgirl
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Shemales
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Solo
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe Step Family
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",EroLuxe VIP 4K 60FPS
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",FAP TV 2 HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",FAP TV 4 HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",FAP TV Compilation HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",FAP TV Lesbian HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Fetish HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Hustler HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Interracial HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Latina HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",LIBERTY Эротика
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Loves Berry HD (18+)
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Milf HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Penthouse Gold HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Play-x Retro SEX HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Play-x Spy Sex HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Pornstar HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",POV HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Russian HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Sky High SEX
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Visit-X TV
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Vivid Red HD
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",xxx
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",xxx2
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
-#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₄ 🔞 Взрослые ᴼᶠᶠ",Z!Adult TV (18+)
-https://github.com/dom-mal/555/raw/refs/heads/main/n.o.s.i.g.n/n.o.s.i.g.n.mp4
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Brazzers HD
+http://45.145.32.13:20440/brazzers/index.m3u8?token=test
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Playboy TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/dom-mal/555/refs/heads/main/icon/18.png"group-title="₁₅ 🔞 Взрослые ᴼᴺ",Russian 2
+http://live.redtraffic.xyz/russian.m3u8
