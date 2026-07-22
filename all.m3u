@@ -47,6 +47,8 @@ https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=r3
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/5651.png"group-title="₀₁ 🇷🇺 Россия",Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/9At4oG7.png"group-title="₀₁ 🇷🇺 Россия",Санкт-Петербург
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2265.png"group-title="₀₁ 🇷🇺 Россия",360° HD
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/4458.png"group-title="₀₁ 🇷🇺 Россия",360° Новости HD
@@ -61,8 +63,6 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 https://bl.rutube.ru/livestream/75957f55ed1e9b4e0ec00f8dd9594fcc/index.m3u8?s=OjXHP68fc64v-0fvW4szSg&e=2068851244&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2266.png"group-title="₀₁ 🇷🇺 Россия",EuroNews
 https://stream8.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2399.png"group-title="₀₁ 🇷🇺 Россия",Дождь
-http://realcdn.top:8080/free/iptv/5BVE7QV3NQUPHB/2030/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/1000.png"group-title="₀₁ 🇷🇺 Россия",ОТР
 https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=6qmjnxGAlWBvuSCg58Glng&e=2068851265&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2398.png"group-title="₀₁ 🇷🇺 Россия",Вместе РФ
@@ -241,18 +241,12 @@ http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 https://fl1001.bozztv.com/ushba-t10/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.one/img/4605.png"group-title="₀₅ 🏀 Спорт",Хоккей ТВ
 http://tinyurl.com/TvZaTak31/OClAyughth/cnb0y9n3633wb3wnppri4wg6
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",KHL HD
-http://193.25.8.59:8000/khl
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/2048.png"group-title="₀₅ 🏀 Спорт",KHL HD
+http://31.148.48.15/KHL_TV/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://livetv24.org/images/1038.png"group-title="₀₅ 🏀 Спорт",KHL Prime
+http://stream.mcquack.net/178/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.one/img/4562.png"group-title="₀₅ 🏀 Спорт",NHL HD
 http://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! HD
-http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Viju+ Sport HD
-http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Премьер
-http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Страна
-http://185.46.16.239:8000/Match_Nash_Sport
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Футбол 1 HD
 http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Футбол 2 HD
@@ -260,11 +254,19 @@ http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Футбол 3 HD
 http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://cdn.epg.one/img/2782.png"group-title="₀₅ 🏀 Спорт",Футбол
-http://hls127.freeott.top:8080/Football/mono.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Мир Баскетбола
-http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! HD
+http://gr.seetv.cc/play/397/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Премьер
+http://gr.seetv.cc/play/37/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Матч! Страна
+http://185.46.16.239:8000/Match_Nash_Sport
 #EXTINF:-1 tvg-id=""tvg-logo="http://epg.one/img/4679.png"group-title="₀₅ 🏀 Спорт",Мяч
 http://gr.seetv.cc/play/1763/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Viju+ Sport HD
+http://gr.seetv.cc/play/198/D70CC021CA87DF2/video.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Мир Баскетбола
+http://gr.seetv.cc/play/8831/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Окко.Прайм Спорт
 http://gr.seetv.cc/play/1833/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="₀₅ 🏀 Спорт",Окко.Спорт HD
