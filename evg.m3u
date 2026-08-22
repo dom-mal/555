@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml.gz; https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz"
 #EXTINF:-1 tvg-id="sankt-peterburg"tvg-logo="http://epg.cdntv.online/img/225.png"group-title="₀₁ 🇷🇺 Эфир ТВ"catchup=""catchup-days="",Санкт-Петербург
 http://cdntv.online/high/vk6hjm4f8rs3/225.m3u8
 #EXTINF:-1 tvg-id="lot-47"tvg-logo="https://epg.iptvx.one/picons/lot-47.png"group-title="₀₁ 🇷🇺 Эфир ТВ"catchup=""catchup-days="",ЛенТВ 24
@@ -509,6 +509,8 @@ http://cdntv.online/high/vk6hjm4f8rs3/1263.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/2066.m3u8
 #EXTINF:-1 tvg-id="2300"tvg-logo="https://epg.iptvx.one/picons/cineman-dub-ssr.png"group-title="₀₂ 📺 Кино ТВ"catchup=""catchup-days="",CineMan Дубляж СССР
 http://cdntv.online/high/vk6hjm4f8rs3/2300.m3u8
+#EXTINF:-1 tvg-id="1271"tvg-logo="http://epg.cdntv.online/img/1271.png"group-title="₀₂ 📺 Кино ТВ"catchup="shift"catchup-days="3",CineMan Катастрофы
+http://cdntv.online/high/vk6hjm4f8rs3/1271.m3u8
 #EXTINF:-1 tvg-id="1581"tvg-logo="http://epg.cdntv.online/img/1581.png"group-title="₀₂ 📺 Кино ТВ"catchup=""catchup-days="",CineMan Комедийные сериалы
 http://cdntv.online/high/vk6hjm4f8rs3/1581.m3u8
 #EXTINF:-1 tvg-id="1262"tvg-logo="http://epg.cdntv.online/img/1262.png"group-title="₀₂ 📺 Кино ТВ"catchup="shift"catchup-days="3",CineMan Комедия
@@ -1067,8 +1069,6 @@ http://cdntv.online/high/vk6hjm4f8rs3/294.m3u8
 http://cdntv.online/high/vk6hjm4f8rs3/1457.m3u8
 #EXTINF:-1 tvg-id="1681"tvg-logo="http://epg.cdntv.online/img/1681.png"group-title="₀₅ 🔬 Наука Мир"catchup=""catchup-days="",CineMan Air Crash
 http://cdntv.online/high/vk6hjm4f8rs3/1681.m3u8
-#EXTINF:-1 tvg-id="1271"tvg-logo="http://epg.cdntv.online/img/1271.png"group-title="₀₅ 🔬 Наука Мир"catchup="shift"catchup-days="3",CineMan Катастрофы
-http://cdntv.online/high/vk6hjm4f8rs3/1271.m3u8
 #EXTINF:-1 tvg-id="cineman-aircrash"tvg-logo="http://epg.cdntv.online/img/1681.png"group-title="₀₅ 🔬 Наука Мир"catchup=""catchup-days="",CineMan расследование авиакатастроф
 http://cdntv.online/high/vk6hjm4f8rs3/2298.m3u8
 #EXTINF:-1 tvg-id="1657"tvg-logo="http://epg.cdntv.online/img/1642.png"group-title="₀₅ 🔬 Наука Мир"catchup=""catchup-days="",Clarity4K Avto Blog
