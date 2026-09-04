@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml.gz; https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+﻿#EXTM3U url-tvg="http://epg.cdntv.online/full.xml.gz; https://iptvx.one/epg/epg.xml.gz"
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/983.png"group-title="₀₁ 🇷🇺 Россия",Первый канал HD
 https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=LAwHjfz5On3BQrS74jMdNQ&e=2068851223&scheme=https
 #EXTINF:-1 tvg-id=""tvg-logo="http://livetv24.org/images/6675.png"group-title="₀₁ 🇷🇺 Россия",Первый Тульский HD
